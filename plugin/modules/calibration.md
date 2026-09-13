@@ -15,7 +15,7 @@
   its paired mechanism; an unnamed gauge is a skipped gauge,
   visible in the reply.
 - Before closing substantial work (multi-part, multi-session, or
-  any skip-gauge no), three questions, each answerable only
+  any skip-gauge no), four questions, each answerable only
   against a record, never from feel — a bare "no" is noise, and
   absent pieces are the class automated checks miss.
   "Anything missing?" is answered with the enumeration checked
@@ -56,6 +56,21 @@
   it routed?" is answered against the turn record — dispatches
   made and inline stretches held, each with its named basis
   (Model routing): the routing self-review the operator reads.
+  "What did it SPEND?" is answered against the dispatch record in
+  priced units (priced units, below), never from feel — by the
+  spend readout where one is deployed over the dispatch log, by
+  hand where not: items-per-lane against the write-set join's
+  clusters, lanes-per-item above one (the re-dispatch shape),
+  rounds spent past a discriminator's answer, prefix re-bills on
+  non-judgment turns. The review is COMPARATIVE — this session's
+  ratios against the cheapest form the record shows was
+  available — and the readout only surfaces the number: whether a
+  flagged shape was justified stays the review's judgment. The
+  question lives at the CLOSE because the dispatch-time form
+  measurably does not fire: a whole drain wave has run
+  one-item-per-lane past a desk with the identity-mapping rule
+  loaded — a rule with no output at its moment leaves no visible
+  absence, and the close reply is where this one's absence shows.
   Convention: the closing reply itself carries the answers with
   their bases — a harvest arriving only on operator prompt is the
   recorded miss shape.
