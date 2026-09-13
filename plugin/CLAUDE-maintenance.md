@@ -442,6 +442,12 @@ conclusions always take a carrier (two exits).
   with a one-line reason. Project-specific items carry other goals
   or live in their own project's carrier, never under the corpus
   goal.
+  The same pass asks which PROJECT-file rules have GENERALIZED
+  since the last review: the accretion module already mints a
+  generalizing correction upward at the correction moment; this
+  question is that rule's cadence backstop, because a project
+  CLAUDE.md accumulates globally-true rules that no correction
+  moment ever re-visits.
 - **Ablation — what a durability class means, and the grain at
   which it can be measured at all.** The review's instrument is
   the WHOLE-CORPUS arm: a CLAUDE_CONFIG_DIR copy with every import
