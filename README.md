@@ -47,7 +47,7 @@ work that hold regardless of what machine or team you're on.
 
 **Core** (the daily working style): ethos + [lifecycle](https://github.com/Gunther-Schulz/lifecycle) (work-item tracking) + [dispatch-guards](https://github.com/Gunther-Schulz/dispatch-guards) (subagent dispatch discipline).
 
-**Optional** (pick what fits your work): [statiker](https://github.com/Gunther-Schulz/statiker) (certified development runs), [skill-craft](https://github.com/Gunther-Schulz/skill-craft) (designing and reviewing skills), claude-worktime (time tracking).
+**Optional** (pick what fits your work): [statiker](https://github.com/Gunther-Schulz/statiker) (certified development runs), [skill-craft](https://github.com/Gunther-Schulz/skill-craft) (designing and reviewing skills), [claude-worktime](https://github.com/Gunther-Schulz/claude-worktime) (time tracking).
 
 ethos works standalone — the other plugins add capability on top of it, but none of them are required for ethos itself to be useful.
 
