@@ -321,39 +321,47 @@ conclusions always take a carrier (two exits).
   over an extraction, which build-first governs — one operator
   question apart.
 - **Build-first (operator decision):** a well-formed rule candidate
-is minted DIRECTLY — operator GO, or the GO of a judgment desk
-holding a standing operator delegation whose scope covers the corpus
-work, that delegation's line QUOTED in the same journal line so the
-authority is checkable where the mint is recorded (Model routing,
-desk delegation) — one commit, plus a journal line marking it
-candidate-in-operation. Tuning and retirement happen in operation via
-the fire-rate review, not by pre-approval. The journal line rides in
-the SAME commit as the corpus edit. Where a site can enforce that
-pairing mechanically it does, and the pairing is only mechanizable
-where carrier and corpus share one index: a corpus file and a journal
-carrier in DIFFERENT repositories cannot be checked as a staged pair,
-and a gate spanning them can demand no more than that the carrier be
-staged in its own repo at commit time — an assurance no wider than
-its predicate (Grounding). Where no mechanism reaches, the journal
-line is convention, written in the same session as the edit. The line
-also names durability class where not timeless — a clause bound to
-current tool behavior carries its retirement trigger — and the reach
-slot (Generalize upward).
+  is minted DIRECTLY — operator GO, or the GO of a judgment desk
+  holding a standing operator delegation whose scope covers the
+  corpus work, that delegation's line QUOTED in the same journal line
+  so the authority is checkable where the mint is recorded — and such
+  a delegation counts only where the operator stated it first-hand in
+  the RECEIVING session, since a delegation carried by the desk that
+  exercises it is testimony about a decision and never the decision,
+  which is the one shape this rule cannot afford — one commit, plus a
+  journal line marking it candidate-in-operation. Tuning and
+  retirement happen in operation via the fire-rate review, not by
+  pre-approval. The journal line rides in the SAME commit as the
+  corpus edit. Where a site can enforce that pairing mechanically it
+  does, and the pairing is only mechanizable where carrier and corpus
+  share one index: a corpus file and a journal carrier in DIFFERENT
+  repositories cannot be checked as a staged pair, and a gate
+  spanning them can demand no more than that the carrier be staged in
+  its own repo at commit time — an assurance no wider than its
+  predicate (Grounding). Where no mechanism reaches, the journal line
+  is convention, written in the same session as the edit. The line
+  also names durability class where not timeless — a clause bound to
+  current tool behavior carries its retirement trigger — and the
+  reach slot (Generalize upward).
 - **Growth is review-judged, never mint-blocked (operator
-decision):** additions land when they are justified; the check on
-cumulative load is the review regime, not a commit gate. Every
-fire-rate review RECORDS the measured always-loaded total (word count
-over the root plus enabled imports) in its journal entry beside the
-tripwire reading, so growth is a measured trend with a per-review
-keep-or-displace verdict over the delta — not a felt one. The total
-is recorded in its OPERATING rendering too, because a word count
-understates what the corpus costs by two multipliers nobody carries
-in their head: it is re-read on EVERY call of EVERY lane, so its bill
-is the total times calls times lanes, not the total once. The review
-measures its own terms rather than carrying a ratio — an instrument
-reading real transcripts reports them, and the same run gives the
-crossover above which splitting a read-only fan-out is cheaper than
-one long lane, n* = sqrt(4·C_lane / (w_r·g)).
+  decision):** additions land when they are justified; the check on
+  cumulative load is the review regime, not a commit gate. Every
+  fire-rate review RECORDS the measured always-loaded total (word
+  count over the root plus enabled imports) in its journal entry
+  beside the tripwire reading, so growth is a measured trend with a
+  per-review keep-or-displace verdict over the delta — not a felt
+  one. The total is recorded in its OPERATING rendering too, because
+  a word count understates what the corpus costs by two multipliers
+  nobody carries in their head: it is re-read on EVERY call of EVERY
+  lane, so its bill is the total times calls times lanes, not the
+  total once. The review measures its own terms rather than carrying
+  a ratio — an instrument reading real transcripts reports them, and
+  the same run gives the crossover above which splitting a read-only
+  fan-out is cheaper than one long lane. A site carrying such an
+  instrument names it in its overlay with the terms it measures; a
+  formula whose symbols are bound nowhere the reader can reach is
+  decoration, and decoration in a gate file is the density test's own
+  failure case.
 - **Process for structural rewrites** (composition-rule changes,
   large restructures, corpus-wide re-renders, and any SPLIT or
   MOVE of this file's own governed text): amend-first on
@@ -436,41 +444,37 @@ one long lane, n* = sqrt(4·C_lane / (w_r·g)).
   goal.
 - **Ablation — what a durability class means, and the grain at
   which it can be measured at all.** The review's instrument is
-  the WHOLE-CORPUS arm: a config-directory copy with every
-  import removed, against an unmodified side, at least two
-  repeats per side, markers pre-registered over OUTPUT and
-  TRAJECTORY — never self-report, which both sides produce alike.
-  Finer grains are not weaker but below resolution (measured over
-  18 arms): five per-entry
-  pairs discriminated nothing, a whole module removed (16
-  entries, 3,621 words) discriminated nothing, and all eight
-  imports removed DID, markers stable across repeats on both
-  sides. A cross-referencing corpus has small margins at every
-  sub-corpus grain, so a per-entry or per-module null grades the
-  INSTRUMENT, never the entry, and licenses no retirement; those
-  arms are the standing baseline. The MODULE toggle survives only
-  as a live-interval experiment, and eligibility is GRADED per
-  entry for it — a
-  module toggles only when every member's grade permits it: an
+  the WHOLE-CORPUS arm: a CLAUDE_CONFIG_DIR copy with every import
+  removed, against an unmodified side, at least two repeats per side,
+  markers pre-registered over OUTPUT and TRAJECTORY — never
+  self-report, which both sides produce alike. Finer grains are not
+  weaker but below resolution (measured over 18 arms): five per-entry
+  pairs discriminated nothing, a whole module removed (16 entries,
+  3,621 words) discriminated nothing, and all eight imports removed
+  DID, markers stable across repeats on both sides. A
+  cross-referencing corpus has small margins at every sub-corpus
+  grain, so a per-entry or per-module null grades the INSTRUMENT,
+  never the entry, and licenses no retirement; those arms are the
+  standing baseline. The MODULE toggle survives only as a
+  live-interval experiment, and eligibility is GRADED per entry for
+  it — a module toggles only when every member's grade permits it: an
   entry guarding a silent failure (attribution trailers, booking and
-  carrier rules) blocks its whole module — quiet weeks cannot
-  grade it —
-  while an entry whose absence is loud (route line, gauge line,
-  closing harvest) permits a tuning interval. Module
-  classes (composition rule, durability classes) are the defaults,
-  and a mixed module takes its strictest member's rule: ethics
-  dominate and bindings are never ablation subjects, so a module
-  carrying either is not toggled whole, and one mixing loud
-  conventions with silent guards is toggled only after the silent
-  guards move out or with the experiment explicitly accounting for
-  them. The toggle: backtick-wrap the module's import in the root
-  and record the interval in the journal; re-enable is the reverse
-  edit. That a code span is not import-parsed is UNVERIFIED — the
-  discriminating probe (a backticked import in a scratch project,
-  loaded-or-not against an unwrapped positive control) is owed
-  before the next TOGGLE interval; the whole-corpus instrument
-  above does not inherit that debt, removing imports rather than
-  wrapping them.
+  carrier rules) blocks its whole module — quiet weeks cannot grade
+  it — while an entry whose absence is loud (route line, gauge line,
+  closing harvest) permits a tuning interval. Module classes
+  (composition rule, durability classes) are the defaults, and a
+  mixed module takes its strictest member's rule: ethics dominate and
+  bindings are never ablation subjects, so a module carrying either
+  is not toggled whole, and one mixing loud conventions with silent
+  guards is toggled only after the silent guards move out or with the
+  experiment explicitly accounting for them. The toggle:
+  backtick-wrap the module's import in the root and record the
+  interval in the journal; re-enable is the reverse edit. That a code
+  span is not import-parsed is UNVERIFIED — the discriminating probe
+  (a backticked import in a scratch project, loaded-or-not against an
+  unwrapped positive control) is owed before the next TOGGLE
+  interval; the whole-corpus instrument above does not inherit that
+  debt, removing imports rather than wrapping them.
 - **Consolidation pass — trigger: growth, not calendar.** Scope: the
   whole governed set (Edit discipline, Corpus-wide amendment audit)
   AND this file — the governor is not exempt, and a day of
