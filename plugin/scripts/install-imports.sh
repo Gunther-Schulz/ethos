@@ -68,7 +68,7 @@ block_file=$(mktemp)
 tmp_target=""
 cleanup() {
     rm -f "$block_file"
-    [ -n "$tmp_target" ] && rm -f "$tmp_target"
+    if [ -n "$tmp_target" ]; then rm -f "$tmp_target"; fi
 }
 trap cleanup EXIT INT TERM
 
