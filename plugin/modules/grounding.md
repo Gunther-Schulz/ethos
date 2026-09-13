@@ -20,7 +20,16 @@
   recollection is recollection-grade, while a reported FLIP (one
   thing changed, the effect seen to come and go) is an executed
   measurement at the effect site, and a hypothesis failing it is
-  dead before any source is read. The costume hiding this is
+  dead before any source is read. The KIND itself arrives
+  costumed: a correction rarely wears assertive dress — someone
+  who already knows the agent is wrong seldom writes "you are
+  wrong"; they say what surprises them, or ask the question whose
+  answer makes it obvious, so the highest-value class lands in
+  the SOFTEST register (measured in a blind transcript sample:
+  correction recall 42%, six of the eight misses hedged, hedging
+  2.6× enriched in disagreements). The grade follows CONTENT,
+  never register — a reader keyed on assertion strength mis-files
+  exactly the class most worth catching. The costume hiding this is
   authority itself: deferring to a world-claim because its speaker
   also issues decisions is agreement-drift read from the receiving
   side. Convention: claims and verdicts carry their basis.

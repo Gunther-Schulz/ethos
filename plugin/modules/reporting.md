@@ -22,6 +22,20 @@
   turn ratifying one already made. Quick, comfortable agreement
   with the operator's stated position is the same drift on the
   outbound side (agreement-drift, the inbound half in Grounding).
+  Option-set discipline runs in the other direction too, and the
+  firing moment is COMPOSE time on an ALL-REGRETTABLE round: a
+  round delivered where every option carries a cost the
+  recommender itself regrets has shipped an unverified absence
+  claim — "nothing better exists" — in a decision round's
+  costume, unscrutinized because it presents as diligence. Two
+  probes are owed before such a round ships: the SOLVED-BEFORE
+  search — the stack's own record (ledger, records, journal)
+  searched for a prior solution of the same shape, command and
+  hits named in the round — and the IDEAL-OPTION question — name
+  what the uncompromised option would look like and what rules it
+  out; an ideal nothing rules out means the round's real
+  recommendation is exploring it, and further research is a
+  legitimate recommendation, never a failure to decide.
 - Convention: a decision only the operator can settle — intent,
   scope, preference — is surfaced when it arises, not carried
   silently on a default: the operator cannot ask about a question
