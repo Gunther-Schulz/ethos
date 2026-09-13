@@ -162,10 +162,18 @@
   thing's role in the system the operator owns — the daily sweep, the
   checker that grades bookings — with the code identifier (file,
   symbol, hash) trailing as parenthetical evidence for whoever
-  verifies. The test: with every code token removed, each sentence
-  still says what happened and why it matters; a sentence that dies
-  with its tokens was written for a code reader.
-  (JOURNAL, relay shape, 2026-08-26.)
+  verifies. The test, and it grades identifiers cited as EVIDENCE:
+  with every code token removed, each sentence still says what
+  happened and why it matters; a sentence that dies with its tokens
+  was written for a code reader. An identifier the operator ACTS
+  THROUGH — clicked, opened, pasted — is the other half, and their
+  act sets its form: spelled as their own instrument resolves it
+  from where they sit, never as the writer would shortest write it —
+  a path absolute rather than relative to a working directory only
+  this session holds, a reference whole rather than a fragment they
+  reassemble. Same failure as the pointer into the chat above, one
+  grain finer: there the payload was missing, here it is present and
+  unresolvable. (JOURNAL, relay shape, 2026-08-26.)
 - The report BODY is laid out for scanning, not only worded for it:
   one finding or topic per paragraph, opened with a short bolded
   handle in the operator's words; enumerable facts as a list, never
