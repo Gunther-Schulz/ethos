@@ -61,19 +61,19 @@ applied to layers instead of projects.
 
 ## Composition rule (what belongs in the corpus)
 
-Philosophy: the corpus informs judgment, it never decides — the
-agent decides, under a standing delegation included, and the
-operator overrides at veto-gates. The trust split beneath the
-verification rules: a model's JUDGMENT is trusted to decide;
-WHETHER a check is owed stays priced by stakes and the skip gauge —
-most reversible work owes none; and where one IS owed, it is never
-the producing context's own self-assessment — a fresh context or a
+Philosophy (operator decision): the corpus informs judgment, it never
+decides — the agent decides, under a standing delegation included,
+and the operator overrides at veto-gates. The trust split beneath the
+verification rules: a model's JUDGMENT is trusted to decide; WHETHER
+a check is owed stays priced by stakes and the skip gauge — most
+reversible work owes none; and where one IS owed, it is never the
+producing context's own self-assessment — a fresh context or a
 mechanism runs it, and this does not relax as models improve
 (self-preference is measured capability-independent). The operator
-holds a role, never a remainder (the kind split — reporting
-module): intent, preference, authority over the irreversible —
-exercised as decisions at seams and as deliberation with the desk,
-whose settled conclusions always take a carrier (two exits).
+holds a role, never a remainder (the kind split — reporting module):
+intent, preference, authority over the irreversible — exercised as
+decisions at seams and as deliberation with the desk, whose settled
+conclusions always take a carrier (two exits).
 
 - Content forms: **evidence** (facts + observed failure shapes;
   environment-bound facts are bindings, staleness-stamped),
@@ -183,80 +183,75 @@ whose settled conclusions always take a carrier (two exits).
   drafting step, not only at borderline disputes — draft the
   domain-free form first, keep domain vocabulary only where it is a
   binding or where the general form loses precision the work needs.
-  Standing goal: the corpus is robust for any kind of work,
-  domain-specific only where necessary and high value — domain
-  vocabulary is usually habit, not information.
-  The probe as a word-swap passes a draft that narrowed in
-  SUBJECT: a rule written from the incident's most vivid instance,
-  pulled toward the claim-type its enforcement form can check (a
-  finding about inference drafted as a rule about numbers, because
-  numbers can be tagged) — every domain word swapped, the rule
-  still firing on one instance of a class it was meant to name.
-  The reach check on the draft is the same as Grounding's on a
-  verdict: enumerate the incident's SIBLING instances (the other
-  sentences of the same output that share the failure) and the
-  governed set's recorded shapes of the class (grep the observed
-  parentheticals), and test whether the drafted text fires on
-  each — an instance it misses names the rule's true subject, and
-  the draft widens before it lands. The mechanical half of that
-  enumeration is already in the corpus: every INBOUND "(Module,
-  handle)" pointer into the entry names a case the entry must fire
-  on, so the pointers are read with the siblings (measured: one
-  module's three entries each failed that read, the trigger not
-  firing on the case a sibling routed to it by name; a dangling
-  inbound handle is the same defect one step earlier, and a phrase
-  search over a hard-wrapped corpus is blind to wrap AND case
-  until both are normalised). The journal line carries the
-  result as a slot (instances tested / fired / missed), so a mint
-  that skipped the check is visible in its own record rather than
-  at the next incident.
+  Standing goal (operator decision): the corpus is robust for any
+  kind of work, domain-specific only where necessary and high value —
+  domain vocabulary is usually habit, not information. The probe as a
+  word-swap passes a draft that narrowed in SUBJECT: a rule written
+  from the incident's most vivid instance, pulled toward the
+  claim-type its enforcement form can check (a finding about
+  inference drafted as a rule about numbers, because numbers can be
+  tagged) — every domain word swapped, the rule still firing on one
+  instance of a class it was meant to name. The reach check on the
+  draft is the same as Grounding's on a verdict: enumerate the
+  incident's SIBLING instances (the other sentences of the same
+  output that share the failure) and the governed set's recorded
+  shapes of the class (grep the observed parentheticals), and test
+  whether the drafted text fires on each — an instance it misses
+  names the rule's true subject, and the draft widens before it
+  lands. The mechanical half of that enumeration is already in the
+  corpus: every INBOUND "(Module, handle)" pointer into the entry
+  names a case the entry must fire on, so the pointers are read with
+  the siblings (measured: one module's three entries each failed that
+  read, the trigger not firing on the case a sibling routed to it by
+  name; a dangling inbound handle is the same defect one step
+  earlier, and a phrase search over a hard-wrapped corpus is blind to
+  wrap AND case until both are normalised). The journal line carries
+  the result as a slot (instances tested / fired / missed), so a mint
+  that skipped the check is visible in its own record rather than at
+  the next incident.
 - **Amendment over addition:** revise in place > merge > extend >
-  add new. Also an EVIDENCE rule, not only a preference order:
-  a sharpen inherits the base rule's earned
+  add new. Also an EVIDENCE rule, not only a preference order
+  (operator decision): a sharpen inherits the base rule's earned
   standing and grounding — the seat is already paid for — while a NEW
   entry needs its own named grounding observation and does not land
   without one; ONE observation suffices for either. NO mint waits on
   firing counts: the fire-rate review is retirement machinery, never
   an admission gate (build-first, below), truth-LEVEL is decided by
-  the abstraction probe, not by cross-project firing statistics —
-  the posture is mint-and-tune-in-operation, never
-  wait-for-recurrence. The tell that a mint is really a sharpen: the
-  failure triages as loaded-but-inert, not as a gap (composition
-  rule, failure triage).
+  the abstraction probe, not by cross-project firing statistics — the
+  posture is mint-and-tune-in-operation, never wait-for-recurrence.
+  The tell that a mint is really a sharpen: the failure triages as
+  loaded-but-inert, not as a gap (composition rule, failure triage).
 - **Neighbor-collision check:** every mint or amendment — vetted or
   build-first — reads its home section's neighbors and tests for
   contradiction on a concrete case, and puts the touched entry's OWN
   full text in scope for the render, density and provenance tests —
   an edit audits its host, not only its delta; clean it or park the
-  cleanup with a pointer, never leave it silently. Neighbors are not
-  only spatial:
-  before a mint lands, SEARCH the governed set (membership:
-  Corpus-wide amendment audit, below) for
-  existing statements of the rule being added — grep the concept,
-  not just the wording (the Grounding dependents-search rule
-  applied to the corpus; its search-KEY caveat — the mark is
-  CHOSEN — binds here too); a hit means amend or source-label,
-  never a
-  silent second home (the semantic sibling outside the read radius
-  is how a duplicate home is born). The search runs BOTH
-  directions: beyond restatements of the rule being added, a mint
-  that changes an operating premise re-scopes every rule RESTING
-  on the old premise — ask which existing entries would forbid,
-  mis-fire, or fall silent under the new arrangement, and land
-  those sharpens in the same edit set; a delta-only review finds
-  duplicates, never the rules the delta invalidates. The same
-  pass grades COHERENCE, both ways: the edit joins the fabric it
-  enters — the corpus's existing terms (one term per referent),
-  an existing mechanism reused where one carries the rule, the
-  level of its nearest kin — and the fabric it touches is
-  re-graded against the CURRENT corpus: a neighbor gone subtly
-  stale under later optimization, or superseded by a
-  better-shaped rule, is harmonized or queued for disposition in
-  the same edit set (clean or park with a pointer, the exit
-  above); disharmony is individually defensible at each edit and
-  only ever caught wholesale at consolidation, too late. Evidence
-  cannot command, only contradict: a contradiction is resolved in the
-  text (which fact is true, at what scope) before the mint lands.
+  cleanup with a pointer, never leave it silently (operator
+  decision). Neighbors are not only spatial: before a mint lands,
+  SEARCH the governed set (membership: Corpus-wide amendment audit,
+  below) for existing statements of the rule being added — grep the
+  concept, not just the wording (the Grounding dependents-search rule
+  applied to the corpus; its search-KEY caveat — the mark is CHOSEN —
+  binds here too); a hit means amend or source-label, never a silent
+  second home (the semantic sibling outside the read radius is how a
+  duplicate home is born). The search runs BOTH directions: beyond
+  restatements of the rule being added, a mint that changes an
+  operating premise re-scopes every rule RESTING on the old premise —
+  ask which existing entries would forbid, mis-fire, or fall silent
+  under the new arrangement, and land those sharpens in the same edit
+  set; a delta-only review finds duplicates, never the rules the
+  delta invalidates. The same pass grades COHERENCE, both ways: the
+  edit joins the fabric it enters — the corpus's existing terms (one
+  term per referent), an existing mechanism reused where one carries
+  the rule, the level of its nearest kin — and the fabric it touches
+  is re-graded against the CURRENT corpus: a neighbor gone subtly
+  stale under later optimization, or superseded by a better-shaped
+  rule, is harmonized or queued for disposition in the same edit set
+  (clean or park with a pointer, the exit above); disharmony is
+  individually defensible at each edit and only ever caught wholesale
+  at consolidation, too late. Evidence cannot command, only
+  contradict: a contradiction is resolved in the text (which fact is
+  true, at what scope) before the mint lands.
 - **Triple probe on the fresh mint** — after the rule text stands,
   three passes in sequence, each grading the text the previous
   pass corrected: CARRIER (does the home outlive the occasion,
@@ -325,44 +320,40 @@ whose settled conclusions always take a carrier (two exits).
   consolidation-timing rule, which governs compression, stretched
   over an extraction, which build-first governs — one operator
   question apart.
-- **Build-first:** a well-formed rule candidate is minted
-  DIRECTLY — operator GO, or the GO of a judgment desk holding a
-  standing operator delegation whose scope covers the corpus work,
-  that delegation's line QUOTED in the same journal line so the
-  authority is checkable where the mint is recorded (Model routing,
-  desk delegation) — one commit, plus a journal line marking it
-  candidate-in-operation. Tuning and
-  retirement happen in operation via the fire-rate review, not by
-  pre-approval. The journal line rides in the SAME commit as the
-  corpus edit. Where a site can enforce that pairing mechanically it
-  does, and the pairing is only mechanizable where carrier and
-  corpus share one index: a corpus file and a journal carrier in
-  DIFFERENT repositories cannot be checked as a staged pair, and a
-  gate spanning them can demand no more than that the carrier be
-  staged in its own repo at commit time — an assurance no wider
-  than its predicate (Grounding). Where no mechanism reaches, the
-  journal line is convention, written in the same session as the
-  edit. The
-  line also names durability class where not timeless — a clause
-  bound to current tool behavior carries its retirement trigger —
-  and the reach slot (Generalize upward).
-- **Growth is review-judged, never mint-blocked:** additions land
-  when they are justified; the check
-  on cumulative load is the review regime, not a commit gate.
-  Every fire-rate review RECORDS the measured always-loaded
-  total (word count over the root plus enabled imports) in its
-  journal entry beside the tripwire reading, so growth is a
-  measured trend with a per-review keep-or-displace verdict over
-  the delta — not a felt one. The total is recorded in its
-  OPERATING rendering too, because a word count understates what
-  the corpus costs by two multipliers nobody carries in their
-  head: it is re-read on EVERY call of EVERY lane, so its bill is
-  the total times calls times lanes, not the total once. The
-  review measures its own terms rather than carrying a ratio — an
-  instrument reading real transcripts reports them, and the same
-  run gives the crossover above which splitting a read-only
-  fan-out is cheaper than one long lane,
-  n* = sqrt(4·C_lane / (w_r·g)).
+- **Build-first (operator decision):** a well-formed rule candidate
+is minted DIRECTLY — operator GO, or the GO of a judgment desk
+holding a standing operator delegation whose scope covers the corpus
+work, that delegation's line QUOTED in the same journal line so the
+authority is checkable where the mint is recorded (Model routing,
+desk delegation) — one commit, plus a journal line marking it
+candidate-in-operation. Tuning and retirement happen in operation via
+the fire-rate review, not by pre-approval. The journal line rides in
+the SAME commit as the corpus edit. Where a site can enforce that
+pairing mechanically it does, and the pairing is only mechanizable
+where carrier and corpus share one index: a corpus file and a journal
+carrier in DIFFERENT repositories cannot be checked as a staged pair,
+and a gate spanning them can demand no more than that the carrier be
+staged in its own repo at commit time — an assurance no wider than
+its predicate (Grounding). Where no mechanism reaches, the journal
+line is convention, written in the same session as the edit. The line
+also names durability class where not timeless — a clause bound to
+current tool behavior carries its retirement trigger — and the reach
+slot (Generalize upward).
+- **Growth is review-judged, never mint-blocked (operator
+decision):** additions land when they are justified; the check on
+cumulative load is the review regime, not a commit gate. Every
+fire-rate review RECORDS the measured always-loaded total (word count
+over the root plus enabled imports) in its journal entry beside the
+tripwire reading, so growth is a measured trend with a per-review
+keep-or-displace verdict over the delta — not a felt one. The total
+is recorded in its OPERATING rendering too, because a word count
+understates what the corpus costs by two multipliers nobody carries
+in their head: it is re-read on EVERY call of EVERY lane, so its bill
+is the total times calls times lanes, not the total once. The review
+measures its own terms rather than carrying a ratio — an instrument
+reading real transcripts reports them, and the same run gives the
+crossover above which splitting a read-only fan-out is cheaper than
+one long lane, n* = sqrt(4·C_lane / (w_r·g)).
 - **Process for structural rewrites** (composition-rule changes,
   large restructures, corpus-wide re-renders, and any SPLIT or
   MOVE of this file's own governed text): amend-first on
@@ -374,16 +365,16 @@ whose settled conclusions always take a carrier (two exits).
   rendering-from-a-source rule), fix findings before push,
   dispositions recorded in the commit or journal. A pre-approval
   round-trip only
-  when the operator asks for one (amend early, test in
-  production — same posture as build-first).
-  Exception: skill-craft's canonical files review at their own SEAM
-  CADENCE — one fresh-context self-review before the release that
-  delivers a change-set, machine-read semantics mandatory at that
-  seam, notable/nit findings to the operator (skill-craft, Reviewing
-  a skill). The vetting standard the stack leans on is unchanged;
-  what moved is WHEN it fires — per release, no longer per commit.
-  This file and the corpus stay per-edit: live-on-write carriers
-  deliver at the edit itself.
+  when the operator asks for one (operator decision: amend early,
+  test in production — same posture as build-first). Exception
+  (operator decision): skill-craft's canonical files review at their
+  own SEAM CADENCE — one fresh-context self-review before the release
+  that delivers a change-set, machine-read semantics mandatory at
+  that seam, notable/nit findings to the operator (skill-craft,
+  Reviewing a skill). The vetting standard the stack leans on is
+  unchanged; what moved is WHEN it fires — per release, no longer per
+  commit. This file and the corpus stay per-edit: live-on-write
+  carriers deliver at the edit itself.
 - **Provenance:** corpus rendering of the general rule "rationale
   goes where future sessions look" (Insurance) — here,
   sessions load the files for operation and the maintainer reads
@@ -401,8 +392,8 @@ whose settled conclusions always take a carrier (two exits).
   bindings and carry stamps. In-file dates are legitimate only as
   bindings' staleness stamps ("as of", "valid while") — this gate
   file excepted, which keeps its own attributions. Elsewhere a fiat
-  rule reads "(operator decision)" at most; its date and authorship
-  live in the journal or commit.
+  rule reads "(operator decision)" at most (operator decision); its
+  date and authorship live in the journal or commit.
 
 ## Review cadence
 
