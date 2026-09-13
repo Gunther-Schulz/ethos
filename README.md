@@ -104,10 +104,27 @@ it cannot check for you:
   same turn as a corpus edit — assumes an authoring skill is
   installed to vet against.
 - a journal-coupling commit gate, which demands a corpus edit land
-  with its journal line — assumes a journal carrier exists. Where
-  corpus and carrier sit in DIFFERENT repositories, no gate can
-  check them as a staged pair; the most such a gate establishes is
-  that the carrier was staged in its own repo at commit time.
+  with its journal line — assumes a journal carrier exists. This one
+  SHIPS, in `plugin/hooks/corpus-journal-gate.py`, and is still not
+  wired: with no configuration it exits silently, so installing
+  ethos changes nothing. Two steps turn it on, both yours:
+
+      git config ethos.journalCarrier /path/to/your/JOURNAL.md
+
+  and a line in your own pre-commit whose exit status you honour:
+
+      <plugin>/hooks/corpus-journal-gate.py --repo "$(git rev-parse --show-toplevel)"
+
+  What it establishes is narrower than its name, and it says so in
+  its own refusal text rather than leaving you to find out. Where
+  corpus and carrier sit in the SAME repository, "staged in this
+  commit" is checkable and is what it checks. Where they sit in
+  DIFFERENT repositories — the arrangement you get when the corpus
+  is public and the journal stays private — there is no shared
+  index, so no commit-time check can prove the pair. It then
+  establishes only that the carrier was staged in its own repo at
+  that moment: not that the line is ever committed, nor that it
+  describes this edit.
 
 ## Where this fits in the stack
 
