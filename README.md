@@ -54,14 +54,15 @@ work that hold regardless of what machine or team you're on.
        $CLAUDE_CONFIG_DIR/CLAUDE.md or ~/.claude/CLAUDE.md]
 
 4. Verify: start a new Claude Code session. If step 3 worked, you'll
-   see one line: "ethos v0.1.0: corpus delivered via CLAUDE.md import
-   block (6 modules verified)". If you skipped step 3 (or a later
-   ethos update moved the install path), you'll instead see a WARNING
-   naming exactly what's wrong plus the exact command to fix it —
-   run that command. Its shape (verified against a scratch config in
-   this build's own pre-release test run) is:
+   see one line naming your installed version and confirming the
+   module count: "ethos v<version>: corpus delivered via CLAUDE.md
+   import block (6 modules verified)". If you skipped step 3 (or a
+   later ethos update moved the install path), you'll instead see a
+   WARNING naming exactly what's wrong plus the exact command to fix
+   it — run that command. Its shape (verified against a scratch
+   config in this build's own pre-release test run) is:
 
-       ethos v0.1.0 WARNING: <exactly what's wrong, and where>
+       ethos v<version> WARNING: <exactly what's wrong, and where>
        Fix: <your-plugin-install-path>/scripts/install-imports.sh <your-CLAUDE.md-path>
 
    Both paths are filled in with your own real locations — copying
@@ -75,6 +76,39 @@ block is replaced in place, never duplicated, which is also how you
 recover after an ethos version upgrade moves the install path out from
 under an old block.
 
+## The governance bundle (opt-in; nothing here is wired by default)
+
+The corpus cites its own maintenance doctrine from inside the rules,
+so shipping the rules without it would leave those citations
+dangling. The doctrine therefore lives here too, in
+[plugin/CLAUDE-maintenance.md](plugin/CLAUDE-maintenance.md) — the
+rules for editing a rule corpus: what belongs in it, how a change is
+grounded and vetted, and how it is reviewed and retired.
+
+It is a coupled HOME, not a forced LOAD. Installing ethos does not
+read it, wire it, or enforce it: the install step writes the six
+module imports and nothing else, and a consume-only install enables
+none of this. Read it only if you maintain a corpus of your own.
+
+What it deliberately does NOT carry is anything bound to one site.
+Real paths, journal and item carriers, tool names and enforcement
+wiring live in the maintainer's own overlay, not here; this file
+names the ROLES those artifacts fill and leaves a site to say what
+fills them.
+
+Its enforcement halves are separate from the doctrine and are NOT
+shipped wired. Where a site wants them, each carries an assumption
+it cannot check for you:
+
+- a corpus-edit gate, which demands the doctrine be read in the
+  same turn as a corpus edit — assumes an authoring skill is
+  installed to vet against.
+- a journal-coupling commit gate, which demands a corpus edit land
+  with its journal line — assumes a journal carrier exists. Where
+  corpus and carrier sit in DIFFERENT repositories, no gate can
+  check them as a staged pair; the most such a gate establishes is
+  that the carrier was staged in its own repo at commit time.
+
 ## Where this fits in the stack
 
 **Core** (the daily working style): ethos + [lifecycle](https://github.com/Gunther-Schulz/lifecycle) (work-item tracking) + [dispatch-guards](https://github.com/Gunther-Schulz/dispatch-guards) (subagent dispatch discipline).
@@ -85,4 +119,4 @@ ethos works standalone — the other plugins add capability on top of it, but no
 
 ## License
 
-Not yet decided for this repo — see the maintainer's own notes before relying on reuse terms.
+MIT — see [LICENSE](LICENSE).

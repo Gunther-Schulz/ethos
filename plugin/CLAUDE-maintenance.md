@@ -358,10 +358,10 @@ whose settled conclusions always take a carrier (two exits).
   the corpus costs by two multipliers nobody carries in their
   head: it is re-read on EVERY call of EVERY lane, so its bill is
   the total times calls times lanes, not the total once. The
-  review measures its own terms rather than carrying a ratio — a
-  lane-cost instrument reports them from real
-  transcripts, and the same run gives the crossover above which
-  splitting a read-only fan-out is cheaper than one long lane,
+  review measures its own terms rather than carrying a ratio — an
+  instrument reading real transcripts reports them, and the same
+  run gives the crossover above which splitting a read-only
+  fan-out is cheaper than one long lane,
   n* = sqrt(4·C_lane / (w_r·g)).
 - **Process for structural rewrites** (composition-rule changes,
   large restructures, corpus-wide re-renders, and any SPLIT or
