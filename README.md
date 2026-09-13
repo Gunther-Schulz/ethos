@@ -10,9 +10,12 @@ questions before closing out a task, keep a paper trail so work
 survives a restart, write reports the reader can act on, and keep a
 project's own rules and backlog from silently rotting. It ships as six
 short modules — grounding, fixing, calibration, insurance, reporting,
-accretion — injected into every session's context automatically, so
-the discipline is present from the first turn rather than something
-you have to remember to ask for.
+accretion — that a one-time install step wires into every session's
+context via your CLAUDE.md (see Installation below for why it's a
+step rather than something automatic), so the discipline is present
+from the first turn rather than something you have to remember to ask
+for. A SessionStart hook checks that wiring on every session and
+speaks up loudly if it's ever missing or stale.
 
 This is v1. It does **not** yet include the model-routing rules (which
 model or tier to hand work to, when to delegate to a subagent) or any
@@ -37,11 +40,40 @@ work that hold regardless of what machine or team you're on.
 ```
 1. claude plugin marketplace add Gunther-Schulz/ethos
 2. claude plugin install ethos@ethos-marketplace
-3. (no manual step)
-4. Verify: start a new Claude Code session and confirm a line
-   beginning "ethos v0.1.0 — work-ethics corpus" appears in the
-   session's context.
+3. Run the install script once — this is the one manual step, and
+   here's why: Claude Code truncates oversized SessionStart hook
+   output to a small preview plus a file pointer (measured on this
+   stack), and the six ethos modules run well past that size. So the
+   corpus can't travel as hook output at all — it travels instead as
+   `@`-imports written into your CLAUDE.md, and writing them is the
+   one thing a hook can't do on your behalf at install time. The
+   plugin can tell you your install script's exact path (see step 4),
+   or find it yourself under your plugin cache. Run it once:
+
+       <path-to-install-imports.sh> [target-CLAUDE.md, default
+       $CLAUDE_CONFIG_DIR/CLAUDE.md or ~/.claude/CLAUDE.md]
+
+4. Verify: start a new Claude Code session. If step 3 worked, you'll
+   see one line: "ethos v0.1.0: corpus delivered via CLAUDE.md import
+   block (6 modules verified)". If you skipped step 3 (or a later
+   ethos update moved the install path), you'll instead see a WARNING
+   naming exactly what's wrong plus the exact command to fix it —
+   run that command. Its shape (verified against a scratch config in
+   this build's own pre-release test run) is:
+
+       ethos v0.1.0 WARNING: <exactly what's wrong, and where>
+       Fix: <your-plugin-install-path>/scripts/install-imports.sh <your-CLAUDE.md-path>
+
+   Both paths are filled in with your own real locations — copying
+   and running that `Fix:` line is exactly step 3, and it's the
+   fastest way to find and run the script the first time, and again
+   after any update that moves it.
 ```
+
+Re-running the install script at any time is safe: an existing import
+block is replaced in place, never duplicated, which is also how you
+recover after an ethos version upgrade moves the install path out from
+under an old block.
 
 ## Where this fits in the stack
 

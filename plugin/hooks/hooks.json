@@ -5,7 +5,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "\"${CLAUDE_PLUGIN_ROOT}\"/hooks/inject-ethos.py"
+            "command": "\"${CLAUDE_PLUGIN_ROOT}\"/hooks/verify-ethos.py"
           }
         ]
       }

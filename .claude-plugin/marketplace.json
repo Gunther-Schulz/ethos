@@ -8,7 +8,7 @@
   "plugins": [
     {
       "name": "ethos",
-      "description": "Injects the work-ethics corpus (grounding, fixing, calibration, insurance, reporting, accretion) into every session's context via a SessionStart hook.",
+      "description": "Delivers the work-ethics corpus (grounding, fixing, calibration, insurance, reporting, accretion) into your CLAUDE.md via a one-time install script, verified on every session start by a SessionStart hook.",
       "source": "./plugin"
     }
   ]
