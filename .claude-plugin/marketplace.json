@@ -1,0 +1,15 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "ethos-marketplace",
+  "description": "The always-loaded work-ethics corpus for Claude Code sessions",
+  "owner": {
+    "name": "Gunther Schulz"
+  },
+  "plugins": [
+    {
+      "name": "ethos",
+      "description": "Injects the work-ethics corpus (grounding, fixing, calibration, insurance, reporting, accretion) into every session's context via a SessionStart hook.",
+      "source": "./plugin"
+    }
+  ]
+}
