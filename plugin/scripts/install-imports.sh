@@ -30,7 +30,7 @@
 
 set -eu
 
-MODULE_ORDER="grounding fixing calibration insurance reporting accretion"
+# MODULE_ORDER is read from modules/ORDER (single source; see below).
 
 BEGIN_MARKER='# >>> ethos imports (managed by ethos install-imports.sh) >>>'
 END_MARKER='# <<< ethos imports <<<'
@@ -52,6 +52,32 @@ done
 script_dir=$(cd "$(dirname "$script_path")" && pwd -P)
 plugin_root=$(cd "$script_dir/.." && pwd -P)
 modules_dir="$plugin_root/modules"
+
+# --- module set: modules/ORDER is the single source of order AND
+# --- membership; both directions fail loud (an unlisted module on
+# --- disk would otherwise be silently never loaded)
+
+if [ ! -f "$modules_dir/ORDER" ]; then
+    echo "install-imports: ERROR: $modules_dir/ORDER missing — cannot determine the module set" >&2
+    exit 1
+fi
+MODULE_ORDER=$(tr '\n' ' ' < "$modules_dir/ORDER")
+for f in "$modules_dir"/*.md; do
+    stem=$(basename "$f" .md)
+    case " $MODULE_ORDER " in
+        *" $stem "*) ;;
+        *)
+            echo "install-imports: ERROR: $f exists on disk but is not listed in modules/ORDER — it would be silently never loaded" >&2
+            exit 1
+            ;;
+    esac
+done
+for m in $MODULE_ORDER; do
+    if [ ! -f "$modules_dir/$m.md" ]; then
+        echo "install-imports: ERROR: modules/ORDER lists '$m' but $modules_dir/$m.md does not exist" >&2
+        exit 1
+    fi
+done
 
 # --- resolve the install target ----------------------------------------
 

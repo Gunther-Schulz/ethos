@@ -1,5 +1,5 @@
 {
   "name": "ethos",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "The always-loaded work-ethics corpus of the Gunther Schulz Claude Code stack: evidence discipline over claims (grounding, fixing), calibration questions, insurance mechanisms, reporting conventions, and per-project accretion discipline. The corpus is delivered via `@`-imports that scripts/install-imports.sh writes into your CLAUDE.md (SessionStart hook output is too small a channel for six modules' worth of text); a SessionStart hook verifies the delivery on every session start. Routing's portable half and machine-bound bindings are not in v1."
 }

@@ -49,24 +49,43 @@ import json
 import os
 import sys
 
-VERSION = "0.1.0"
-
-MODULE_ORDER = [
-    "grounding",
-    "fixing",
-    "calibration",
-    "insurance",
-    "reporting",
-    "accretion",
-]
-
-BEGIN_MARKER = "# >>> ethos imports (managed by ethos install-imports.sh) >>>"
-END_MARKER = "# <<< ethos imports <<<"
-
 HERE = os.path.dirname(os.path.abspath(__file__))
 PLUGIN_ROOT = os.path.normpath(os.path.join(HERE, ".."))
 MODULES_DIR = os.path.join(PLUGIN_ROOT, "modules")
 INSTALL_SCRIPT = os.path.join(PLUGIN_ROOT, "scripts", "install-imports.sh")
+
+# VERSION and MODULE_ORDER are derived, never restated: plugin.json
+# and modules/ORDER are the single sources (a restated list stays
+# green while the source gains a member).
+
+
+def _plugin_version():
+    manifest = os.path.join(PLUGIN_ROOT, ".claude-plugin", "plugin.json")
+    try:
+        with open(manifest, encoding="utf-8") as f:
+            return json.load(f).get("version", "?")
+    except (OSError, ValueError):
+        return "?"
+
+
+def _module_order_from(modules_dir):
+    order_file = os.path.join(modules_dir, "ORDER")
+    with open(order_file, encoding="utf-8") as f:
+        return [ln.strip() for ln in f if ln.strip()]
+
+
+def _module_order():
+    return _module_order_from(MODULES_DIR)
+
+
+try:
+    MODULE_ORDER = _module_order()
+except OSError:
+    MODULE_ORDER = None
+VERSION = _plugin_version()
+
+BEGIN_MARKER = "# >>> ethos imports (managed by ethos install-imports.sh) >>>"
+END_MARKER = "# <<< ethos imports <<<"
 
 
 # Rebound by the self-test only (_run_main), never in production use:
@@ -119,6 +138,26 @@ def extract_block(text):
 def diagnose():
     """(healthy, detail) — detail is empty on healthy, else the one
     warning reason."""
+    if MODULE_ORDER is None:
+        return False, (
+            "modules/ORDER missing or unreadable in this plugin — the "
+            "module set cannot be verified")
+    try:
+        on_disk = set(
+            f[:-3] for f in os.listdir(MODULES_DIR) if f.endswith(".md"))
+    except OSError as exc:
+        return False, "cannot list %s: %s" % (MODULES_DIR, exc)
+    extras = sorted(on_disk - set(MODULE_ORDER))
+    absent = sorted(set(MODULE_ORDER) - on_disk)
+    if extras:
+        return False, (
+            "module file(s) on disk but not listed in modules/ORDER — "
+            "loaded by NOTHING: %s (add to modules/ORDER, then re-run "
+            "the installer)" % ", ".join(extras))
+    if absent:
+        return False, (
+            "modules/ORDER lists %s but no such module file exists"
+            % ", ".join(absent))
     target = target_claude_md()
     if not os.path.isfile(target):
         return False, "CLAUDE.md not found at %s" % target
@@ -374,6 +413,38 @@ def _selftest_config_dir_env_precedence():
                 os.environ["CLAUDE_CONFIG_DIR"] = old
 
 
+def _selftest_unlisted_module_on_disk_fires():
+    import tempfile, shutil
+    global MODULES_DIR, MODULE_ORDER
+    keep_dir, keep_order = MODULES_DIR, MODULE_ORDER
+    tmp = tempfile.mkdtemp()
+    try:
+        for name in keep_order:
+            _write(os.path.join(tmp, name + ".md"), "x\n")
+        _write(os.path.join(tmp, "ORDER"),
+               "\n".join(keep_order) + "\n")
+        _write(os.path.join(tmp, "seventh.md"), "x\n")
+        MODULES_DIR = tmp
+        MODULE_ORDER = _module_order_from(tmp)
+        healthy, detail = diagnose()
+        assert not healthy, "planted unlisted module read as healthy"
+        assert "seventh" in detail and "loaded by NOTHING" in detail, detail
+    finally:
+        MODULES_DIR, MODULE_ORDER = keep_dir, keep_order
+        shutil.rmtree(tmp, ignore_errors=True)
+
+
+def _selftest_order_file_missing_fires():
+    global MODULE_ORDER
+    keep = MODULE_ORDER
+    try:
+        MODULE_ORDER = None
+        healthy, detail = diagnose()
+        assert not healthy and "ORDER missing" in detail, detail
+    finally:
+        MODULE_ORDER = keep
+
+
 def _selftest():
     _selftest_healthy_line_under_2000_bytes()
     _selftest_missing_claude_md_is_block_missing_not_crash()
@@ -383,6 +454,8 @@ def _selftest():
     _selftest_stale_prefix_after_version_move_is_unhealthy()
     _selftest_wrong_count_or_order_is_unhealthy()
     _selftest_config_dir_env_precedence()
+    _selftest_unlisted_module_on_disk_fires()
+    _selftest_order_file_missing_fires()
     print("verify-ethos: all tests passed")
 
 
