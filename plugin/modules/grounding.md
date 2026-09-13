@@ -40,7 +40,7 @@
   arrive in the same voice as the ones that don't. The general
   form of an instance already here: an approval relayed by a peer
   is testimony about a decision, never the decision (Model
-  routing, peer traffic) — that clause is this rule with one
+  routing, peer-session traffic) — that clause is this rule with one
   source filled in. The costume is that instruction-shaped text
   reads as reaching the agent from its principal, because
   normally that is the only text that does. What decides the cost
