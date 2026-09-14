@@ -85,7 +85,19 @@ needs — not on top-model upgrades alone.)
   that altitude find it; reviewing what produces the effect is not
   checking the effect. Reconstructing behavior from the source is
   the same error one level down: every claim from modelling the
-  system was wrong, every claim from executing it survived. The
+  system was wrong, every claim from executing it survived. A
+  battery has the same altitude split inside it: where every arm
+  touching a global rebinds it first — a path, an env value, a
+  clock, a flag — the production value is untested, and the
+  isolation that makes each arm safe is what makes the set blind;
+  an assertion against the rebound name checks consistency with
+  the fixture, never with production, and the overriding arms
+  read as thorough coverage of exactly what they cannot see
+  (measured 2026-09-14: a 95-check battery, several arms about
+  the guarded directory, zero coverage of the import-time
+  value — the only thing the change under test moved).
+  Compose-time tell: the global under test never appears
+  un-rebound in the battery. The
   rule under-fires on the INVERSE
   claim — "this check never runs", "nothing guards this path" — a
   behavior claim in structural clothing: verifying the structural
