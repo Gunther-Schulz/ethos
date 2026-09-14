@@ -203,18 +203,11 @@
   Restart-over-compact is the decided posture (operator decision;
   mechanism surface, measured numbers and the trial record: the
   environment module) — the compact-and-continue trial RESOLVED
-  AGAINST the alternative on its pre-registered criterion: a
-  summary AUTHORED a wrong stated total over its own enumeration,
-  and the claim shipped through a deliberate post-compact
-  re-check. Seam-chosen manual /compact stays open where nothing
-  in flight depends on verbatim history. Two mechanism facts from
-  that firing: re-reading a body does not check a COUNT of that
-  body — a total composed from a summary is re-derived from its
-  enumeration before it ships (the persisted-count rule,
-  Grounding, with the summary as a new AUTHOR of the label
-  class); and a session cannot OBSERVE its own compaction — its
-  self-reported compaction state is testimony, and only an
-  external recorder counts. The continue-or-restart
+  AGAINST the alternative on its pre-registered criterion, the
+  deciding incident being the persisted-count class (Grounding)
+  with the SUMMARY as a new author of the label. Seam-chosen
+  manual /compact stays open where nothing in flight depends on
+  verbatim history. The continue-or-restart
   question has a FIRING MOMENT, not only a depth threshold — the
   observed miss is the question never raised, not a wrong answer
   (same seam shape as the route line, which is the routing
