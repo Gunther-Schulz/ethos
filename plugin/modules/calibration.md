@@ -56,6 +56,17 @@
   it routed?" is answered against the turn record — dispatches
   made and inline stretches held, each with its named basis
   (Model routing): the routing self-review the operator reads.
+  The same question grades each WAVE's construction against the
+  join's own record, because lane counts and spend ratios read
+  clean over a mis-built wave: the mapping's source cited, with
+  its input read at the slots the join EFFECTIVELY consumed (a
+  join refusing part of its input makes the hand mapping the
+  real source, graded as such); every collision the join named
+  consumed BOTH ways — the serialization and the
+  duplicate-content probe over the colliding bodies; each hold
+  carrying its grain and release event; the wave order honoring
+  the serialization the join named. Each answer comes from the
+  record, and a miss is named the way a routing miss is.
   "What did it SPEND?" is answered against the dispatch record in
   priced units (priced units, below), never from feel — by the
   spend readout where one is deployed over the dispatch log, by
