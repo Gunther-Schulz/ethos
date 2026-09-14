@@ -106,7 +106,18 @@ needs — not on top-model upgrades alone.)
   the guarded directory, zero coverage of the import-time
   value — the only thing the change under test moved).
   Compose-time tell: the global under test never appears
-  un-rebound in the battery. The
+  un-rebound in the battery. The partial override is the
+  DESTRUCTIVE half: a fixture that isolates the destination
+  while a sibling global stays keyed to live state aims the
+  exercised path — a migration, a deletion, an append — at real
+  data outside the test, and its green is identical (measured
+  2026-09-14, twice in one lane: a legacy-migration source keyed
+  to the real home under an isolated destination; a bite that
+  isolated N-1 of N globals and wrote synthetic lines into the
+  live log it existed to protect). The isolation set is checked
+  against the enumeration of globals the exercised path
+  CONSUMES, never against the ones the test happens to touch.
+  The
   rule under-fires on the INVERSE
   claim — "this check never runs", "nothing guards this path" — a
   behavior claim in structural clothing: verifying the structural
