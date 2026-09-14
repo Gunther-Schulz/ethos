@@ -193,9 +193,9 @@
 - A statistical or analytical finding is noise until significance
   math says otherwise; best-cell-of-many is the canonical case.
 - Session depth is a cost, not just a context concern: every turn
-  re-bills the full prefix, and past ~200k a restart pays for
-  itself within 2-3 turns (measured over 72 sessions, as of
-  2026-07-27; numbers in JOURNAL). The harness's own autocompact
+  re-bills the full prefix, and past the payback depth a restart
+  pays for itself within a few turns (figures: this bullet's
+  closing stamped line). The harness's own autocompact
   is not the cheaper substitute it appears: it replaces the
   prefix with a machine paraphrase — a summary standing in as
   memory, the label-over-body class — where a restart rebuilds
@@ -223,14 +223,18 @@
   top-tier session, every turn spent on non-judgment
   orchestration — babysitting dispatches, idle relay — re-bills
   the full prefix from the capped pool for work no one needed that
-  tier for (measured 2026-08-05: 94.2% of all top-tier volume was
-  main-session prefix re-reads, 4.5% subagent work; numbers in
-  JOURNAL). The desk holds judgment — briefs, grading, rule-corpus
+  tier for — the composition split is measured, in the same
+  stamped line. The desk holds judgment — briefs, grading,
+  rule-corpus
   work; mechanical passes route to dispatches or standing
   procedures, while integration and booking stay at the desk
   (Insurance). Restart-over-babysit — or desk delegation (Model
   routing) — is the default posture there, and open dispatch
   horizons ride the handoff to the successor, never lapse.
+  (Bindings, stamped: restart payback past ~200k within 2-3
+  turns — 72 sessions, as of 2026-07-27; top-tier volume 94.2%
+  main-session prefix re-reads vs 4.5% subagent work, as of
+  2026-08-05; numbers in JOURNAL.)
 - Every workflow has PRICED UNITS — spends that bill once whether
   or not they are full: a fresh-context review or attack round, a
   round trip through another party, a turn re-billing a session

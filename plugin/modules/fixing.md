@@ -88,7 +88,14 @@ needs — not on top-model upgrades alone.)
   on the old premise execute stale unless enumerated and
   re-derived from the current record (the stale-premise class).
   The tell is a premise and its dependent contradicting inside one
-  output.
+  output. The mirror direction goes unasked: the ARRIVAL of an
+  instrument — a new index, corpus, test suite, or access — is
+  new evidence for every OPEN verdict it could grade, and
+  nothing re-asks old open questions against a new capability
+  (measured: an open verdict's refutation sat one query away for
+  days after the layer holding it arrived). Open verdicts
+  predating such an instrument get one re-pass on its arrival,
+  or carry a pre-instrument stamp.
 - Wrongness lives where the work takes effect — the stored data,
   the running system, the delivered output — and only checks at
   that altitude find it; reviewing what produces the effect is not
