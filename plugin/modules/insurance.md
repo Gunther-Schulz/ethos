@@ -69,6 +69,16 @@
   a dead-at-arming and a dead-at-disarm timer indistinguishable
   from the waiting end — while the poll held across every arm;
   a `killed` notice on any timer is a re-arm, never a no-op.
+  The RETIRING side is the other half of that measurement, and
+  its instrument is the selector: a kill selected by pattern
+  runs a REGEX whether or not its author meant one — a
+  relative-path spelling's dot matched into another session's
+  absolute-path watcher and killed it, with the safe reasoning
+  already stated twice by the same desk (measured; the class's
+  second instance) — so a spent timer is retired by PID read
+  off the listed candidates, or by a literal match, never by an
+  unescaped pattern; and a poll is not exempt: killed, it reads
+  as a quiet lane to its waiting end and cannot self-report.
   Silence past the horizon is a finding, never more waiting
   (arming mechanics and mailbox
   binding: dispatch skill §4, canonical). Subagents commit
