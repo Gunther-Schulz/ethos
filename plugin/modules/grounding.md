@@ -166,7 +166,12 @@
   reads as complete. The sweep that finds the rest is keyed on the
   invariant every member must carry whatever its form; where no
   invariant is expressible, the remainder is found by observing
-  the system in action, not by searching harder. An unknown that
+  the system in action, not by searching harder. The members
+  question has a second firing moment, at a defect-class FIND:
+  the artifact carrying the found instance is itself the first
+  member population. The same function or file is swept for
+  siblings of the class before its enumeration closes, the found
+  instance the sweep's positive control. An unknown that
   fails loudly catches what a silent exemption hides. The search is
   owed at the VERDICT, not only at the landing: judging a thing safe
   to remove, rename or re-key IS a claim about who depends on it,
