@@ -26,6 +26,20 @@
 # Raising either number is a decision about how dense this corpus may
 # get. It is the operator's, and it belongs in the commit that moves
 # it, with what moved.
+#
+# WHAT THIS SCRIPT DOES NOT REACH, stated because a clean exit here
+# otherwise reads as a verdict on a reader's whole always-loaded set:
+# it grades the modules in THIS repo only. A consuming site may load
+# site-bound modules of its own beside them — environment facts,
+# routing decisions — which live in that site's repo and are invisible
+# from here. A green below means the TRAVELING modules are inside the
+# band and says nothing about the rest of any site's corpus.
+#
+# That is not hypothetical. The operator's site loads eight modules,
+# six of them these; the first run of a site-side check found one of
+# its own two at 50.6 words/sentence against this band's 45 — over,
+# and unseen for as long as the only check ran here. A site that loads
+# modules beyond this repo runs its own check over its own full set.
 set -u
 
 BAND_WORDS_PER_SENTENCE=45
