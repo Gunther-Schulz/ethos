@@ -110,7 +110,16 @@
     DRIVING SEND by default: any message after which the peer is
     expected to act carries the subscription in the same call —
     a pure subscription costs the receiver nothing, and the send
-    is the moment the promise exists. An arm deferred past the
+    is the moment the promise exists. The default's boundary,
+    measured on its own over-fire: it arms only where the PEER's
+    own action is the next expected event — a wait on the
+    operator arms nothing (the notice fires on the peer's
+    already-finished turn and wakes the driver with nothing to
+    act on), and a re-arm aimed at an already-idle peer fires
+    instantly as a no-op. The notice's own summary line is stale
+    testimony — it can headline the turn BEFORE the queued
+    driving message drained — so the firing act stays the
+    artifact look, never the headline. An arm deferred past the
     send is the re-key that measurably goes unapplied: the
     announced-immediate-action rule under-fires when the
     announcement sits at the tail of a compliant report
