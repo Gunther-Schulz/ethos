@@ -40,7 +40,12 @@
   that proves it → OBSERVER: what notices the arrow's moment
   arriving (a mechanism, a banner, an anchored convention — never
   memory), an arrow with no verb or with an unobserved trigger
-  blocking sign-off. The observer column exists because a trigger
+  blocking sign-off. The table NAMES ITS OWN HOME at sign-off, on
+  the design's own carrier, since the close RE-READS it: a table
+  living only in the signing reply is a row of named actors the
+  close cannot reach, which is this rule's own assumed-delivery
+  class turned on the rule's own artifact.
+  The observer column exists because a trigger
   that is a NON-EVENT — a second occurrence, growth, an
   accumulation — is observed by nothing unless something is built
   to observe it, and an obligation firing only from memory
@@ -102,6 +107,16 @@
   obligation with no output leaves no visible absence. The day's
   correction-classed records ARE the list; reading it is a grep
   over the whole list, never a recollection of the last entry.
+  Convention: EVERY correction earns its line, whatever the
+  triage returns — the line is what makes the list exist, and a
+  correction that mints nothing is the member the list most
+  needs, since the class two corrections share is exactly what
+  neither incident carries alone. Written as "its line is being
+  written" the rule fires only where something already writes
+  one, so the closing question reads a carrier the session was
+  never obliged to fill: a reader named over an unwritten list
+  is the assumed-delivery class, one grain in from the arrow
+  table above.
 - A repeated cycle's re-entry seam — repair laps, review rounds,
   retries — carries two method-shaped questions, not a
   lesson-shaped one: is ANOTHER round owed, and is the FORM
