@@ -136,7 +136,13 @@
   much as a substantial report — opens with a short lead in the
   operator's language: the answer or verdict, what it means for
   them, what decision is being asked — before any evidence or
-  reasoning. The lead and any close are EXTRACTED, never
+  reasoning. An ADMINISTRATIVE opening — a route or mode note, a
+  reading announcement ("here is my read"), a methodology
+  preamble — is not a lead and does not stand before one: a line
+  a form demands follows the lead, and one deciding nothing for
+  its reader is dropped. Deliberation that works toward the
+  answer is content, never narration, and stays under the body's
+  rules. The lead and any close are EXTRACTED, never
   appended — the body surrenders its summarizing sentences to the
   lead and its framing to the cut, so the form SHORTENS the whole;
   an output its lead made longer was appended, not extracted, and
