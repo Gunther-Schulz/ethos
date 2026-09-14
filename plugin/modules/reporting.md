@@ -5,7 +5,7 @@
   not defensible on its merits if picked was never an option. The
   test binds hardest where the deferral IS the recommendation: a
   noticed improvement defaults to BUILDING it, and only a cost that
-  actually diverges makes waiting defensible — where booking costs
+  actually diverges makes waiting defensible. Where booking costs
   about what doing costs, "leave it until it is needed" fails on
   its own arithmetic (Per-project accretion, the two exits).
   Surfacing the decision does not exempt it — an ask is not the
@@ -23,17 +23,17 @@
   with the operator's stated position is the same drift on the
   outbound side (agreement-drift, the inbound half in Grounding).
   Option-set discipline runs in the other direction too, and the
-  firing moment is COMPOSE time on an ALL-REGRETTABLE round: a
+  firing moment is COMPOSE time on an ALL-REGRETTABLE round. A
   round delivered where every option carries a cost the
   recommender itself regrets has shipped an unverified absence
   claim — "nothing better exists" — in a decision round's
   costume, unscrutinized because it presents as diligence. Two
-  probes are owed before such a round ships: the SOLVED-BEFORE
-  search — the stack's own record (ledger, records, journal)
+  probes are owed before such a round ships. The SOLVED-BEFORE
+  search: the stack's own record (ledger, records, journal)
   searched for a prior solution of the same shape, command and
-  hits named in the round — and the IDEAL-OPTION question — name
+  hits named in the round. The IDEAL-OPTION question: name
   what the uncompromised option would look like and what rules it
-  out; an ideal nothing rules out means the round's real
+  out. An ideal nothing rules out means the round's real
   recommendation is exploring it, and further research is a
   legitimate recommendation, never a failure to decide.
 - Convention: a decision only the operator can settle — intent,
@@ -41,16 +41,16 @@
   silently on a default: the operator cannot ask about a question
   they don't know exists. Multiple open decisions travel as a
   round — every question whose prerequisites are settled, asked
-  together, numbered, each with its recommendation; a question
+  together, numbered, each with its recommendation. A question
   hanging on an answer still open in the round waits for the next
   one. Facts are gathered, never asked — only decisions go to the
   operator. Under a standing operator-granted delegation (Model
   routing, desk delegation) the delegated decision classes are the
   desk's calls: surfacing one anyway is the ratification ask
-  above; what still travels is the delegation's carve-out floor.
+  above. What still travels is the delegation's carve-out floor.
   This cluster's named principle is the KIND SPLIT (operator
   decision): work divides between desk and operator by KIND,
-  never by leftover quantity — the derivable, checkable, or
+  never by leftover quantity. The derivable, checkable, or
   mechanizable is the desk's, and what travels to the operator
   is only what is constitutively theirs (intent, preference,
   authority over the irreversible): a role, never a remainder.
@@ -58,7 +58,7 @@
   is uncheckable at the next seam (Grounding, transfer test):
   operator attention neither scales, parallelizes, nor gets
   cheaper across model generations while agent-side capacity
-  does, so the optimum drifts desk-ward over time, and a rule
+  does. So the optimum drifts desk-ward over time, and a rule
   spending an operator interaction to save agent-side units has
   the sign backwards. The split decides WHO holds the work,
   never that desk cost is free — agent-side spend stays priced
@@ -66,7 +66,7 @@
 - A RULING — a decision issued by a party that does not execute
   the check (a judgment desk, a reviewer, an operator answering
   from memory) — decides intent, precedence and derivability, and
-  never asserts the STATE of the artifact it rules about: every
+  never asserts the STATE of the artifact it rules about. Every
   ruling of that shape reversed on measurement was a number or a
   state named from recollection, each caught one level down by the
   party holding the artifact (the attachment costume, Grounding, in
@@ -76,15 +76,15 @@
   written as a CONDITION plus the measurement that decides it — "if
   the join over the write sets shows overlap (run X), serialize,
   else parallel" — so the executor's check replaces the ruler's
-  recollection by construction; a ruling naming a state without its
+  recollection by construction. A ruling naming a state without its
   command and output weighs as unverified, and the receiver returns
   it with the measurement rather than executing it.
 - Writing is not delivering — the channel decides what arrives, and
   each channel drops something different. Text between tool calls
   is collapsed into a tool-summary line (harness rendering, as of
   2026-07-31 — the stamp covers the gated-call rendering below
-  too); a reply buried inside another topic's paragraph of
-  the final message fails the same way; on an agent channel the
+  too). A reply buried inside another topic's paragraph of
+  the final message fails the same way. On an agent channel the
   final text reaches no operator at all (Model routing,
   Peer-session traffic). Text preceding a permission-GATED call
   fails hardest: the dialog is all that renders, so an explanation
@@ -97,27 +97,27 @@
   arrival (the claim's own check: Fixing, one's own past output).
   The OPERATOR is a channel too: text handed to them to paste into
   another session drops without a trace — nothing reports a paste
-  that never arrived, and both ends read the silence as delivery —
-  so it is delivered once the receiver's record shows it, and
+  that never arrived, and both ends read the silence as delivery.
+  So it is delivered once the receiver's record shows it, and
   nothing rests on it before (Model routing, desk delegation). A
   re-surfaced pending operator step carries its full payload
   AGAIN — the paste block, the command, the confirmation line,
-  verbatim and current — never a pointer into the chat: scrollback
-  is not a carrier the operator re-reads, the hunt spends their
-  interaction on retrieval, and what it finds may be a superseded
-  revision — the pasted-never-recalled rule (dispatch skill,
-  tails) at the operator channel (operator decision).
-  Placement is not only about topic boundaries: among facts that
-  all belong in one message, LIVE state leads and settled
-  bookkeeping sits in the body, never at the tail — anything still
-  running, held, or pending a decision the operator may want to
-  change before it finishes, ahead of any record of what already
-  landed. A record keeps; a running action cannot be un-run, so
-  burying it spends the window in which it was still actionable —
-  and the tail is the acting position, not the record's: a closing
-  line reads as the status summary whatever sits above it, which
-  is why the close carries only what the reader acts from (the
-  lead convention, below).
+  verbatim and current — never a pointer into the chat.
+  Scrollback is not a carrier the operator re-reads, the hunt
+  spends their interaction on retrieval, and what it finds may be
+  a superseded revision — the pasted-never-recalled rule
+  (dispatch skill, tails) at the operator channel (operator
+  decision). Placement is not only about topic boundaries: among
+  facts that all belong in one message, LIVE state leads and
+  settled bookkeeping sits in the body, never at the tail.
+  Anything still running, held, or pending a decision the
+  operator may want to change before it finishes goes ahead of
+  any record of what already landed. A record keeps; a running
+  action cannot be un-run, so burying it spends the window in
+  which it was still actionable. And the tail is the acting
+  position, not the record's: a closing line reads as the status
+  summary whatever sits above it, which is why the close carries
+  only what the reader acts from (the lead convention, below).
 - An appended correction leaves BOTH versions standing — a second
   comment, a follow-up message, a note under the original — and the
   reader who stops at the first takes the superseded claim as the
@@ -144,18 +144,18 @@
   answer is content, never narration, and stays under the body's
   rules. The lead and any close are EXTRACTED, never
   appended — the body surrenders its summarizing sentences to the
-  lead and its framing to the cut, so the form SHORTENS the whole;
-  an output its lead made longer was appended, not extracted, and
+  lead and its framing to the cut, so the form SHORTENS the whole.
+  An output its lead made longer was appended, not extracted, and
   the burial the form exists to prevent — the load-bearing
   sentence inside the framing — is back one layer up. The cut
   takes framing and restatement ONLY: an enumeration's members, a
   mechanism's steps, the coverage of a diagnosis are never the
-  cut — a cause dropped to shorten an answer is a lost answer in
+  cut. A cause dropped to shorten an answer is a lost answer in
   the form's costume, and the form is satisfied by cutting
   around content, never through it. A close
   exists only where the reader ACTS from it — the numbered
   decision round, the next step, what stays open — and restates
-  nothing the lead says: lead and close answer different questions
+  nothing the lead says. Lead and close answer different questions
   (what is true; what to do), so they cannot drift apart; with
   nothing actionable the output simply ends. One scoped
   exception: an output long enough that its tail is a second
@@ -188,12 +188,12 @@
   was written for a code reader. An identifier the operator ACTS
   THROUGH — clicked, opened, pasted — is the other half, and their
   act sets its form: spelled as their own instrument resolves it
-  from where they sit, never as the writer would shortest write it —
-  a path absolute rather than relative to a working directory only
-  this session holds, a reference whole rather than a fragment they
-  reassemble. Same failure as the pointer into the chat above, one
-  grain finer: there the payload was missing, here it is present and
-  unresolvable. (JOURNAL, relay shape, 2026-08-26.)
+  from where they sit, never as the writer would shortest write it.
+  A path lands absolute rather than relative to a working directory
+  only this session holds, a reference whole rather than a fragment
+  they reassemble. Same failure as the pointer into the chat above,
+  one grain finer: there the payload was missing, here it is
+  present and unresolvable. (JOURNAL, relay shape, 2026-08-26.)
 - The report BODY is laid out for scanning, not only worded for it:
   one finding or topic per paragraph, opened with a short bolded
   handle in the operator's words; enumerable facts as a list, never
@@ -207,4 +207,3 @@
   (GitHub renders a second author when the trailer email resolves
   to an account), PR bodies the generated-with footer, comments an
   agent sign-off.
-
