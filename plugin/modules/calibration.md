@@ -195,7 +195,16 @@
 - Session depth is a cost, not just a context concern: every turn
   re-bills the full prefix, and past ~200k a restart pays for
   itself within 2-3 turns (measured over 72 sessions, as of
-  2026-07-27; numbers in JOURNAL). The continue-or-restart
+  2026-07-27; numbers in JOURNAL). The harness's own autocompact
+  is not the cheaper substitute it appears: it replaces the
+  prefix with a machine paraphrase — a summary standing in as
+  memory, the label-over-body class — where a restart rebuilds
+  from carriers, which the discipline already makes lossless.
+  Restart-over-compact is the decided posture (operator decision;
+  mechanism surface and bindings: the environment module), open
+  to the pre-registered compact-and-continue trial and to
+  seam-chosen manual /compact where nothing in flight depends on
+  verbatim history. The continue-or-restart
   question has a FIRING MOMENT, not only a depth threshold — the
   observed miss is the question never raised, not a wrong answer
   (same seam shape as the route line, which is the routing
