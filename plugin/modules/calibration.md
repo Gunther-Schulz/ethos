@@ -107,6 +107,32 @@
   obligation with no output leaves no visible absence. The day's
   correction-classed records ARE the list; reading it is a grep
   over the whole list, never a recollection of the last entry.
+  Both firing moments read a list that historically NOTHING wrote
+  (measured: the operator was the noticing instrument, and the
+  JOURNAL fire-record form filled 2 of 308), so the moment gets an
+  OBSERVABLE form and a CARRIER (operator decision;
+  candidate-in-operation — JOURNAL, course-change capture,
+  2026-09-14). The observable form is the session's
+  own COURSE CHANGE — the pre-change action would have been WRONG
+  to execute, not merely re-aimed by a preference, an added scope,
+  or a fact arriving as planned — because detecting corrections in
+  the operator's register is measured dead (recall 42%, six of
+  eight misses hedged; Grounding carries the mechanism), while the
+  course change is register-independent and self-observable. At
+  the change the session appends ONE line to the capture carrier
+  (~/.local/state/claude/course-corrections.md: session id, what
+  was being done, what changed it, corpus-shaped yes/no/unsure,
+  the two post-incident slots), and a corpus-shaped=yes line
+  surfaces as one sentence in the same reply — the proposing the
+  operator otherwise supplies. The close's learning question reads
+  THAT FILE filtered to the session as its list, survivors leaving
+  as a numbered mint round; a desk's close propagates the same
+  review to every peer it drives (operator decision); the
+  fire-rate review sweeps lines no close harvested and grades
+  the capture on two numbers, fill rate and operator agreement.
+  Named residual: a correction the session DISMISSES without
+  changing course writes no line — the register-blind grading rule
+  (Grounding) is the patch at that seam, not this capture.
   Convention: EVERY correction earns its line, whatever the
   triage returns — the line is what makes the list exist, and a
   correction that mints nothing is the member the list most
