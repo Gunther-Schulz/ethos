@@ -114,6 +114,10 @@
     refusable in one line.
 - Paraphrases drift. They drift carried in memory; persisted as a
   label over their own body (a status header, a title, an index line;
+  a COUNT or stated total, the label form that reads as EVIDENCE
+  rather than as prose, so nothing re-reads it against what it
+  counts — correct when written and silently false once the body
+  grows, arithmetic being the only reader that would notice;
   a mechanism's own words about itself — a verdict message, a
   docstring, a declared exemption — whose body is its PREDICATE); or
   constructed at read time as a partial or transformed view (a head
@@ -154,7 +158,12 @@
   edit. A grading, status, or view-derived claim carries its
   body-read or the view's form as basis, or the label "unverified";
   an instrument's assurance states what its predicate establishes,
-  and no more.
+  and no more. A persisted count is RE-DERIVED from the parts at
+  every edit of either, never carried: a stated total and its
+  enumeration part company without a symptom, and a total composed
+  from remembered addends is the same claim twice over — a count
+  about one's own work (Fixing, one's own past output) standing as
+  a label over a body (JOURNAL, coverage invariant, 2026-09-14).
 - Changes to anything others depend on — name, type, shape, value
   set, meaning, or a settled decision others cite — break silently
   wherever dependents were not search-established first, and so

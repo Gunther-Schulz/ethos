@@ -60,7 +60,16 @@ needs — not on top-model upgrades alone.)
   destroying a real commit after an unread hook denial, and as a
   created file deleted with another writer's entries meanwhile in
   it). What sizes a destructive or irreversible step is the
-  object's CURRENT state, never the intent to have caused it. The
+  object's CURRENT state, never the intent to have caused it. A
+  WHOLE-FILE write is that step in an AUTHORING costume: the file
+  is re-composed from what the writer holds, so whatever sat in the
+  object and not in the writer's head is deleted by the same stroke
+  that saves the change — and the result still PARSES, so the
+  checks pass and nothing announces the loss. The instrument is the
+  DELETION side of the diff, read before anything runs: only the
+  lines meant to change may appear there. Its absence leaves no
+  trace, which is why it is named rather than left to notice
+  (JOURNAL, whole-file write, 2026-09-14). The
   same drift binds
   the step HANDED to another executor: a procedure answering "how
   do I undo/disable X" runs at a time its author does not choose,
