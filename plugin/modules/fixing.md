@@ -156,7 +156,17 @@ needs — not on top-model upgrades alone.)
   one was added). A premise the check does not pin
   is one the environment is free to satisfy today and not
   tomorrow; pinned INSIDE the check, frozen into a fixed
-  reference, both directions stay re-runnable. The worst case is
+  reference, both directions stay re-runnable. A booked entry's
+  done-criterion is a member of this class that never presents as
+  a check: written on one date and consumed on another, it forks
+  on every legitimate event that moves a live status word in the
+  interval, so it pins the substance its verifier derives (a
+  content fingerprint, a computed count) and never the status
+  word beside it (measured 2026-09-14: a criterion demanding a
+  register show eval-open, consumed after the desk's own
+  certification flip advanced it to ready — substance met, and
+  the pinned word cost a cross-desk deviation round). The worst
+  case is
   an instrument whose output is SILENCE — a wait, a poll, a
   watch — where both failures are indistinguishable from working:
   a condition read off CUMULATIVE state is satisfied by whatever

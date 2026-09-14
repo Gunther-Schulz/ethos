@@ -155,7 +155,17 @@
   judgment pass over their prose — the pass that grows with the
   queue and binds the strongest reader available; an entry naming
   only what is wrong, not where the fix lands, hides its collisions
-  until brief time. Ready promises that a fresh
+  until brief time. The slot's paths RESOLVE at booking — each
+  names a file that exists or one the entry itself creates —
+  because the join consumes them unchecked: a phantom path
+  collides with nothing by construction, so the join's worst
+  misread presents as its cleanest answer, a tidy standalone lane
+  (measured 2026-09-14: four existing files booked under a wrong
+  prefix graded "shares no file with any schedulable item"). A
+  boundary genuinely unknown is written as unknown and DEMOTES
+  the entry to parked — never invented into paths, which satisfy
+  the parse and hand the join a confident wrong clustering in the
+  same stroke. Ready promises that a fresh
   context could execute the entry; it is not a queue position and
   not a commitment. Those coincide while the ready set is small and
   part company when it outgrows what the repo will ever schedule:
