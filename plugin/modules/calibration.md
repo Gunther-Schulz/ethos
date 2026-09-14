@@ -253,7 +253,15 @@
   carrier — the two-exits gap). A mint question is settled when
   it arises: minted, or declined on grounds already in hand —
   duplicate home, no incident, wrong truth-level — never on
-  evidence operation has yet to produce. A fresh rule enters
+  evidence operation has yet to produce. Convention: a decline
+  NAMES which of the three it stands on. Stated and unwritten,
+  the closed set is a pledge, and the costumes above defeat a
+  pledge at exactly its firing moment: a decline naming none
+  reads as judgment to its author, since nothing in the output
+  is visibly absent — the same obligation-with-no-output shape
+  this module names elsewhere, turned on the admission bar
+  itself (JOURNAL, named decline ground, 2026-09-14).
+  A fresh rule enters
   marked candidate-in-operation (the
   maintenance doctrine's build-first; mechanism there); the
   fire-rate review is where it earns its stay or leaves. The

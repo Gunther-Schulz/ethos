@@ -285,7 +285,17 @@ needs — not on top-model upgrades alone.)
     mechanisms that came to mind while building. Naming the
     instrument for the effect while it watches one route is the
     assurance wider than its predicate (Grounding, the
-    mechanism's label). Red certifies the CLASS that fired,
+    mechanism's label). A STAGED instrument narrows one stage at
+    a time and its control inherits the narrowing: a control
+    proves only the stages it PASSES THROUGH, so one injected
+    below the stage under suspicion returns exactly what a sound
+    chain returns, and its green reads as a green for the chain
+    while the narrowing sits upstream of where the control
+    entered. The control enters at the chain's TOP, or the claim
+    names which stages went unexercised — a yield reported off a
+    mid-chain green is the suffix's yield wearing the whole
+    chain's costume (JOURNAL, staged control, 2026-09-14).
+    Red certifies the CLASS that fired,
     not the instrument's reach: a variant of the defect needs its
     own positive, and instruments sharing an author repeat one
     blind spot across the set — the authorship that matters being
