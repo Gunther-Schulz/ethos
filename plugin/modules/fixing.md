@@ -409,7 +409,20 @@ needs — not on top-model upgrades alone.)
     guard fires on legitimate work, the repair is a declared
     exemption the guard itself verifies — the legitimate case
     named in data it checks — never a softened predicate or an
-    override habit.
+    override habit. A checker's OUTPUT SET is the same question
+    one level under its predicate: could-not-verify is a grade
+    this module applies to measurements already taken, and an
+    instrument offering only two outputs cannot carry it — so the
+    collapse the grade exists to forbid stops being an error and
+    becomes structural, the third state rendering as whichever of
+    the two it sits nearer. A run over nothing, a parser that died
+    mid-input, a check whose premise was absent: each leaves a
+    pass-shaped number, and a printed "0/0" reads exactly like
+    checked and clean. So the instrument CAN say it, and which way
+    an absence maps is decided per check and stated — an absence
+    that IS the defect fails, one that is nobody's fault warns and
+    NAMES what is missing; silence is not among the options
+    (JOURNAL, third answer, 2026-09-14).
 - A cleanness claim — sanitized, scrubbed, redacted, contains no
   X — is a wrongness claim in mirror, inheriting the
   definition-derived absence probe (red-first, per the instrument
