@@ -106,7 +106,21 @@
     idle subscription (`notify_when_idle`, armable only from a
     main session — as of 2026-08-26) fires when the peer next
     goes idle or exits, which catches a stop that produced no
-    report in seconds rather than at the horizon. It is spent
+    report in seconds rather than at the horizon. Armed AT THE
+    DRIVING SEND by default: any message after which the peer is
+    expected to act carries the subscription in the same call —
+    a pure subscription costs the receiver nothing, and the send
+    is the moment the promise exists. An arm deferred past the
+    send is the re-key that measurably goes unapplied: the
+    announced-immediate-action rule under-fires when the
+    announcement sits at the tail of a compliant report
+    (measured: a desk's announced design pass sat idle 35+ min
+    under a standing-width horizon; the piggybacked subscription
+    on the driving send catches the same shape at idle-time). On
+    the notice, the artifact look runs at once — idle beneath
+    announced-unstarted work with a static artifact confirms the
+    stall and skips straight to the demand; idle after delivered
+    work is the good case and costs nothing. It is spent
     after one firing and re-arms only by being asked again, and
     it can expire having observed nothing — so it shortens the
     good case and never replaces the timer, which stays the
