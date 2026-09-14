@@ -69,7 +69,19 @@ needs — not on top-model upgrades alone.)
   DELETION side of the diff, read before anything runs: only the
   lines meant to change may appear there. Its absence leaves no
   trace, which is why it is named rather than left to notice
-  (JOURNAL, whole-file write, 2026-09-14). The
+  (JOURNAL, whole-file write, 2026-09-14). That CURRENT state
+  includes who else is working IN the object: a branch another
+  party has checked out, a resource that was already running when
+  the task began, a shared setting. Reversible-for-me is not the
+  measure — the cost lands on their in-flight work, which the
+  reverting act cannot restore, so a step that is trivially undone
+  here is destructive THERE. What was found running is left
+  running, and what a party is standing in is not moved under
+  them; where the work genuinely needs the change, it is theirs to
+  make or to agree to, and the alternative worth reaching for
+  first is the arrangement that needs no change at all — an
+  isolated copy, a second instance, a narrower target
+  (JOURNAL, live state of a working party, 2026-09-14). The
   same drift binds
   the step HANDED to another executor: a procedure answering "how
   do I undo/disable X" runs at a time its author does not choose,
@@ -440,7 +452,19 @@ needs — not on top-model upgrades alone.)
     an absence maps is decided per check and stated — an absence
     that IS the defect fails, one that is nobody's fault warns and
     NAMES what is missing; silence is not among the options
-    (JOURNAL, third answer, 2026-09-14).
+    (JOURNAL, third answer, 2026-09-14). The same third answer is
+    owed one level out, where the verdict is about a RUN rather
+    than a check: an attempt REFUSED by the environment — a
+    capacity or rate limit, a quota, a permission denial, a
+    malformed invocation — produced no result, and booking it as
+    failure renders could-not-verify as verified-wrong at the
+    moment a defect gets attributed to work that never executed.
+    A refusal is backpressure: it prices retry and says nothing
+    about the artifact. What separates the two is cheap and is
+    the discriminator, so it runs before the booking — correct
+    the invocation and attempt again; a refusal surviving that is
+    a finding about the environment, and only a run that STARTED
+    and then failed is evidence about the work.
 - A cleanness claim — sanitized, scrubbed, redacted, contains no
   X — is a wrongness claim in mirror, inheriting the
   definition-derived absence probe (red-first, per the instrument

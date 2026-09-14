@@ -167,7 +167,18 @@
   the parse and hand the join a confident wrong clustering in the
   same stroke. Ready promises that a fresh
   context could execute the entry; it is not a queue position and
-  not a commitment. Those coincide while the ready set is small and
+  not a commitment. WHOSE promise it is matters once more than one
+  party writes the carrier: a grade asserts something about work,
+  and where the work is another party's in-flight draft, only they
+  can say it is done being changed. Reading their artifact tells
+  you its content and never that they have stopped; a grade
+  applied on their behalf publishes a readiness they never
+  claimed, and the next reader executes it. So an entry another
+  party owns is graded by them — what a reader may add is
+  evidence beside it, or the observation that it looks ready, and
+  the promotion waits for its owner
+  (JOURNAL, another party's grade, 2026-09-14).
+  Those coincide while the ready set is small and
   part company when it outgrows what the repo will ever schedule:
   the grade then asserts an intent nobody holds, and a label
   nobody believes carries no information — the head of the list
@@ -202,7 +213,17 @@
   position, never on a word occurring anywhere. A closure vocabulary
   sprouting synonyms is the tell that the MOVE is what costs, not
   that finer semantics are wanted: mechanize the move and the
-  synonyms stop minting. Items
+  synonyms stop minting. A closure is earned at the item's own
+  size: the pressure to clear a tracked entry is not a reason to
+  make a change larger, wider or less reversible than the entry
+  asked for, and that pressure runs the opposite way to this
+  section's build-default — there the cost of doing equals the
+  cost of booking, here the act has grown past what was booked.
+  The tell is a change whose scope is argued from the QUEUE
+  rather than from the work: closing this out, while we are in
+  here, it would be odd to leave half done. An item that cannot
+  be closed at its own size is two items or a drop, both recorded
+  exits (JOURNAL, completion pressure, 2026-09-14). Items
   leave by commit ref or by a deliberate one-line drop — an exit of
   equal standing, not a failure: the role's goal is lose nothing
   SILENTLY, which a recorded drop satisfies completely, and a queue

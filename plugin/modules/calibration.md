@@ -263,7 +263,17 @@
   its product waits unconsumed for the next same-kind spend (a
   release nothing picks up before the next release; a wake
   announcing state no act needs), so a unit with no consumer
-  between it and its successor was split, and work accumulates
+  between it and its successor was split — and a REPORT is that
+  same unit: one emitted faster than its subject can move carries
+  no consumer between it and the last, so a figure whose true
+  cadence is weekly, printed every session, is noise wearing a
+  measurement's costume. Its cost is not the tokens but the
+  READER, who learns that this line never says anything and stops
+  reading the line that one day will. Cadence therefore follows
+  the SUBJECT's rate of change, not the host event's: a
+  slow-moving figure earns a place in a fast readout only by
+  reporting its DELTA, or by appearing when it crosses something
+  (JOURNAL, metric cadence, 2026-09-14). Work accumulates
   to the consumer's seam — and where coming work is VISIBLE (a
   carrier being drained, a loop's remaining items), the question
   is asked at the PULL, not per item in hand: everything landing
