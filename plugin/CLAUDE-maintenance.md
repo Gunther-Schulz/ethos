@@ -294,8 +294,13 @@ conclusions always take a carrier (two exits).
   every keyed mechanism derives from — so changing membership is one
   edit there, never a hunt for the mechanisms that encode it.
 - **Pareto:** every edit shows fewer words or more coverage; name
-  what was removed or consolidated. Neither → the edit goes back
-  for its merge or its cut.
+  what was removed or consolidated — as a `Pareto:` line in the
+  edit's commit body, the form whose absence is checkable: named
+  nowhere visible, the answer under-fires exactly at busy mints
+  (measured: a same-day burst landed a 16-line amendment whose
+  honest line would have read "nothing removed", caught only by
+  the operator's density challenge at review). Neither → the edit
+  goes back for its merge or its cut.
 - **Precipitation first.** Before writing prose, ask: can this be a
   CI test, hook, or runtime alarm instead — and can it live at
   project level instead of globally? The mechanism bar is
