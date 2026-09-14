@@ -296,7 +296,12 @@
 - After any incident — anything shipped and found wrong, the
   correction rendering above — two questions in order. (1) Can the
   lesson be a test, hook, or runtime alarm? Anything that must be
-  guaranteed belongs in a mechanism without moods — but a
+  guaranteed belongs in a mechanism without moods — its strongest
+  form the PIT OF SUCCESS: compute or default what the duty would
+  have asked for, so the lazy path is the correct path and effort
+  is owed only at exceptions; a duty that merely asks agents to
+  remember measurably under-fires at busy desks even while
+  loaded — but a
   mechanism earns the slot only where its trigger is a computable
   predicate with near-zero false fires (the mechanism bar). A
   judgment-shaped

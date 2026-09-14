@@ -303,7 +303,18 @@ conclusions always take a carrier (two exits).
   goes back for its merge or its cut.
 - **Precipitation first.** Before writing prose, ask: can this be a
   CI test, hook, or runtime alarm instead — and can it live at
-  project level instead of globally? The mechanism bar is
+  project level instead of globally? The strongest precipitate is
+  the PIT-OF-SUCCESS form (operator decision): the mechanism
+  computes or defaults what the duty would have asked for — a
+  stamp derived from the diff, a commit built into the verb, an
+  injection at session start — so the lazy path IS the correct
+  path and effort is owed only at exceptions. A visible-form slot
+  (absence checkable in the output) is the fallback where nothing
+  can compute the answer; a bare mental duty is minted only where
+  judgment excludes both — measured the day this landed: duties
+  under-fire at busy desks even while loaded, and a hand-written
+  slot was superseded by its computed form the same day. The
+  mechanism bar is
   Calibration's (source label): computable predicate, near-zero
   false fires — precipitate the computable slice, leave the
   judgment remainder prose. A global hook taxes every matching call
