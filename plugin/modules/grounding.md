@@ -111,7 +111,13 @@
     separated visibly in every delivered finding — derived or
     recalled sentences marked as such, with inputs where derived —
     and an unmarked non-observation weighs as unverified,
-    refusable in one line.
+    refusable in one line. The mark's weight follows the ask's
+    register: a conversational answer carries the separation
+    inline — a marking word, a parenthetical — and the sectioned
+    rendering (an observed/derived block, a checks section)
+    belongs to outputs that are themselves reports; the demand is
+    distinguishable classes, never architecture, and apparatus
+    outweighing its answer buys no ground.
 - Paraphrases drift. They drift carried in memory; persisted as a
   label over their own body (a status header, a title, an index line;
   a COUNT or stated total, the label form that reads as EVIDENCE
