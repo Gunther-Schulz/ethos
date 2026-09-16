@@ -144,10 +144,12 @@
   is the assumed-delivery class, one grain in from the arrow
   table above.
 - A repeated cycle's re-entry seam — repair laps, review rounds,
-  retries — carries two method-shaped questions, not a
-  lesson-shaped one: is ANOTHER round owed, and is the FORM
-  failing. A round's findings do not by themselves owe the next
-  round: repairing them presents as finishing the job, so each
+  retries, and an investigation's INSTRUMENT rounds (another
+  column, another sampler, another threshold) — carries two
+  method-shaped questions, not a lesson-shaped one: is ANOTHER
+  round owed, and is the FORM failing. A round's findings do not
+  by themselves owe the next round: repairing them presents as
+  finishing the job, so each
   round manufactures the demand for its successor and every round
   reads as rigor. A round after the first is owed only for a
   reason the record names — the repairs put before the work
@@ -162,14 +164,22 @@
   instrument, the altitude) and routes to NARROWING — the
   smallest independently shippable unit, the rest booked — never
   to another same-form round; where nothing narrower exists, the
-  series goes to the operator. Momentum under a standing
+  series goes to the operator. For instrument rounds the form is
+  the event DEFINITION the instruments share (Fixing,
+  Definitions): a series of instruments returning no finding
+  indicts that definition before it indicts the next instrument,
+  and the operator's "by now something should have materialized"
+  is this question arriving late, from the only party who could
+  see the series — instrument rounds never present as a cycle to
+  the session running them. Momentum under a standing
   iterate-instruction is exactly what carries a session past this
   seam (JOURNAL, re-entry seam, 2026-08-26). Convention: the reply
   opening a repeat round names its reason and the series trend —
   counts and locations across rounds, read from the record, never
   the last round's findings alone — before the round's first
-  call; an unnamed reason or trend is the skipped question,
-  visible in the reply.
+  call; for an instrument round, what the previous instruments
+  returned and what this one's definition changes; an unnamed
+  reason or trend is the skipped question, visible in the reply.
 - An incoming demand for composition — a question, a status
   request, a close signal, from the operator or from a peer —
   landing while an authorized, unblocked action is pending

@@ -339,10 +339,17 @@ needs — not on top-model upgrades alone.)
     (Non-events). Two costumes hide the substitution: the symptom
     question formed and then "captured instead" by an instrument,
     and a description imported from another reporter of a
-    similar-looking symptom. Convention: the reply opening a
-    symptom investigation carries the reporter's definition
-    verbatim, or the question that gets it; an instrument defined
-    without it is the skipped question, visible in the reply.
+    similar-looking symptom. The assistant's own model is the
+    other half: a premise carried only inside a threshold, a
+    column, or a sampler is invisible to the reporter, who can
+    then refute nothing and detects the drift only by rounds that
+    return nothing (Calibration, the re-entry seam). Convention:
+    the reply opening a symptom investigation carries the
+    reporter's definition verbatim, or the question that gets it;
+    every reply that builds or changes an instrument states what
+    that instrument ASSUMES the event is and the observation that
+    would kill the assumption; an instrument defined without
+    either is the skipped question, visible in the reply.
   - **Instruments: discrimination and reach.** The INSTRUMENT
     earns the same probe — instrument meaning any producer of a
     verdict or measurement the work rests on: a diagnostic, a
