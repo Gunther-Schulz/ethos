@@ -330,35 +330,35 @@ needs — not on top-model upgrades alone.)
     the label "unverified". A document about the artifact is not
     its definition — notes drift, the artifact does not. A design
     premise ("X lacks Y", "X mislabels Z") is the same claim in
-    solution clothing, inheriting the same probe. A REPORTED
-    SYMPTOM has its definition in one place only — the reporter's
-    observation: what they see and hear, what still works, for how
-    long, in their words — so there the definition is gathered by
-    ASKING: "gathered, never asked" (Recommending & reporting)
-    reaches this fact through its source, not around it, and the
-    answer is quoted where each instrument is defined. A mechanism
-    word standing in the symptom's place (a block, a stall, a
-    timeout, a load, one long frame) is a hypothesis wearing the
-    symptom's name, and an instrument keyed on it measures the
-    hypothesis: its silence then reads as "no event" while the
-    reporter keeps having one. So a detector's trigger is graded
-    against the reporter's definition at design time, and its
-    silence afterwards against an independent record of the
-    symptom — the known positive every absence claim owes
-    (Non-events). Two costumes hide the substitution: the symptom
-    question formed and then "captured instead" by an instrument,
-    and a description imported from another reporter of a
-    similar-looking symptom. The assistant's own model is the
-    other half: a premise carried only inside a threshold, a
-    column, or a sampler is invisible to the reporter, who can
-    then refute nothing and detects the drift only by rounds that
-    return nothing (Calibration, the re-entry seam). Convention:
-    the reply opening a symptom investigation carries the
-    reporter's definition verbatim, or the question that gets it;
-    every reply that builds or changes an instrument states what
-    that instrument ASSUMES the event is and the observation that
-    would kill the assumption; an instrument defined without
-    either is the skipped question, visible in the reply.
+    solution clothing, inheriting the same probe. A REPORTED SYMPTOM
+    is defined in one place only — the reporter's observation: what
+    they see and hear, what still works, for how long, in their words
+    — gathered by ASKING ("gathered, never asked", Recommending &
+    reporting, reaches this fact through its source) and quoted where
+    the work rests on it. What hides a substitution is that a BELIEF
+    THAT DRIVES AN ACT is invisible to the reporter unless stated
+    where the act is: a mechanism word (a block, a timeout, one long
+    frame) inside an instrument's threshold; a conclusion inside a
+    question put to the reporter; a picture of their situation inside
+    an offer or a persisted plan; a description imported from another
+    reporter of a similar-looking symptom. Each is a hypothesis
+    wearing the symptom's name, and the act built on it measures the
+    hypothesis — its result reads as the event's while the reporter
+    keeps having one, can refute nothing, and detects the drift only
+    by rounds that return nothing (Calibration, the re-entry seam).
+    Instrument takes this module's widest sense — any producer of an
+    answer the work rests on, a question asked and an offer made
+    included — and each gets two grades: at design time against the
+    reporter's definition, afterwards its silence against an
+    independent record of the symptom, the known positive every
+    absence claim owes (Non-events). Convention: the reply opening a
+    symptom investigation carries the reporter's definition verbatim,
+    or the question that gets it; a reply whose act — an instrument
+    built or changed, a question put to the reporter, a
+    recommendation made — rests on a belief the reporter has not
+    stated says so in one sentence beside the act, with the
+    observation that would kill it; the act without that sentence is
+    the skipped question, visible in the reply.
   - **Instruments: discrimination and reach.** The INSTRUMENT
     earns the same probe — instrument meaning any producer of a
     verdict or measurement the work rests on: a diagnostic, a
