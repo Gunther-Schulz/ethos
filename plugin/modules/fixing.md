@@ -272,6 +272,15 @@ needs — not on top-model upgrades alone.)
   refutation while the claim stays untested, and it reads as rigor
   to its author, which is why nothing prompts the second look.
   Severity raises the evidence bar, never the speed of delivery.
+  Where the only instrument is the REPORTER — a person describing
+  what they experience — the probe is a question whose KILLING
+  answer is named before it is asked: a leading question supplies
+  the shape, a hedged reply supplies the "yes", and the read-back
+  supplies the fact, so the confirmation was manufactured by the
+  asking. A hedge is content (Grounding, the grade follows
+  content): "I would think so" is carried as hedged, never read
+  back as "yes", and the hypothesis it supports stays open until
+  a pre-named answer closes it.
   - **Non-events.** A claim the work goes on to execute (parse,
     run, render) breaks loudly as a side effect of building —
     except where the expected result is a NON-EVENT (nothing

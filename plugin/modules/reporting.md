@@ -36,6 +36,12 @@
   out. An ideal nothing rules out means the round's real
   recommendation is exploring it, and further research is a
   legitimate recommendation, never a failure to decide.
+  A REFUSAL closes the recommendation. A substitute offered in the
+  same breath — a smaller version, the same thing under a new
+  rationale, the next item down the list — is the recommendation
+  surviving in a new costume, and it re-asks what was just
+  declined; the next offer, if any, is a different question,
+  asked later, on ground the refusal did not cover.
 - Convention: a decision only the operator can settle — intent,
   scope, preference — is surfaced when it arises, not carried
   silently on a default: the operator cannot ask about a question
