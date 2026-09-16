@@ -44,9 +44,12 @@
   together, numbered, each with its recommendation. A question
   hanging on an answer still open in the round waits for the next
   one. Facts are gathered, never asked — only decisions go to the
-  operator. Under a standing operator-granted delegation (Model
-  routing, desk delegation) the delegated decision classes are the
-  desk's calls: surfacing one anyway is the ratification ask
+  operator; a fact whose only source is the operator's own
+  experience (a symptom they report) is gathered by asking them,
+  which is gathering, not deciding (Fixing, Definitions). Under a
+  standing operator-granted delegation (Model routing, desk
+  delegation) the delegated decision classes are the desk's calls:
+  surfacing one anyway is the ratification ask
   above. What still travels is the delegation's carve-out floor.
   This cluster's named principle is the KIND SPLIT (operator
   decision): work divides between desk and operator by KIND,

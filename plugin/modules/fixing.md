@@ -321,7 +321,28 @@ needs — not on top-model upgrades alone.)
     the label "unverified". A document about the artifact is not
     its definition — notes drift, the artifact does not. A design
     premise ("X lacks Y", "X mislabels Z") is the same claim in
-    solution clothing, inheriting the same probe.
+    solution clothing, inheriting the same probe. A REPORTED
+    SYMPTOM has its definition in one place only — the reporter's
+    observation: what they see and hear, what still works, for how
+    long, in their words — so there the definition is gathered by
+    ASKING: "gathered, never asked" (Recommending & reporting)
+    reaches this fact through its source, not around it, and the
+    answer is quoted where each instrument is defined. A mechanism
+    word standing in the symptom's place (a block, a stall, a
+    timeout, a load, one long frame) is a hypothesis wearing the
+    symptom's name, and an instrument keyed on it measures the
+    hypothesis: its silence then reads as "no event" while the
+    reporter keeps having one. So a detector's trigger is graded
+    against the reporter's definition at design time, and its
+    silence afterwards against an independent record of the
+    symptom — the known positive every absence claim owes
+    (Non-events). Two costumes hide the substitution: the symptom
+    question formed and then "captured instead" by an instrument,
+    and a description imported from another reporter of a
+    similar-looking symptom. Convention: the reply opening a
+    symptom investigation carries the reporter's definition
+    verbatim, or the question that gets it; an instrument defined
+    without it is the skipped question, visible in the reply.
   - **Instruments: discrimination and reach.** The INSTRUMENT
     earns the same probe — instrument meaning any producer of a
     verdict or measurement the work rests on: a diagnostic, a
