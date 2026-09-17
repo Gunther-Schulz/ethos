@@ -100,7 +100,22 @@
   both controls in its own test).
   (JOURNAL, file roles, 2026-08-26; fire-rate data, 2026-08-27.)
 - Two exits, no third: the work is done now or booked; a change
-  stated only in chat has no carrier and evaporates. Boundaries, at
+  stated only in chat has no carrier and evaporates. The exits grade
+  the EFFECT's home, not the act: done now means done where the next
+  occasion will READ it. A change living only in a running system — a
+  value applied to a live machine, an instrument started by hand, an
+  authored copy while a deployed one executes, a setting a running
+  program serves from memory and writes out only at exit — is the
+  do-branch's form of that evaporating change, and it hides better:
+  it is correct, verified at the effect site, and working when
+  checked, so nothing in its own output raises the question. The
+  consumer question (file roles, above) is the test, asked of applied
+  state rather than of files: name what will next READ this — the
+  next start, the next fresh context — and check the change is in
+  THAT. Where it is not, the work is not done; the durable half is
+  its own exit, taken now or booked, and where it needs an authority
+  this session lacks, that is the booking's named absence, never a
+  silent completion. Boundaries, at
   every grain: decision → ledger, work item → backlog, rule or
   discipline → project CLAUDE.md. WHICH exit is decided by what
   the build needs that is absent NOW, and the booking names it:
