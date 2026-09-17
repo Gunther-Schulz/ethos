@@ -14,6 +14,34 @@
   (Model routing, the GO seam) — "gauge: clean" or each no with
   its paired mechanism; an unnamed gauge is a skipped gauge,
   visible in the reply.
+- **Investigation record.** Work that turns diagnosis-shaped —
+  the kind-change: the next call exists to explain the previous
+  call's output (Model routing, the inline route's kind-change) —
+  or that opens implementation past a skip-gauge "no" gets a
+  RECORD: one file per project+arc in the tool-state home
+  (`~/.local/state/claude/investigations/`; form and slot
+  vocabulary: `investigation-record-format.md` beside the root
+  CLAUDE.md), five slots — GOAL in the requester's words; NOW,
+  the current approach and what would kill it; ESTABLISHED and
+  OPEN as fixed-shape basis lines; MOVES, citing the
+  course-correction carrier's line where the move was a
+  correction. New facts land in slots, never only in reply
+  prose. The visible output: a reply that advanced a recorded
+  investigation names what it added — `record: +VERIFIED
+  <claim>, +OPEN <question>` — and a diagnosis-continuing reply
+  with no record line is the skipped duty, visible in the reply.
+  The record is the restart carrier: a successor session, a
+  post-compaction context, or a peer taking the arc resumes from
+  it, not from chat (session depth, below); at close ESTABLISHED
+  graduates to the ledger or docs, OPEN to the item carrier or a
+  recorded disposition — closure by graduation, never deletion,
+  the ledger staying the decision home (Insurance) with the
+  record citing it. Measured basis: a multi-day hunt with no
+  working-state carrier — direction reset per session by handoff
+  paraphrase, a promised check lost for days, each instrument
+  built inside the previous round's picture — and the
+  visible-output adherence split (JOURNAL, adherence split,
+  2026-09-17). Candidate-in-operation.
 - Before closing substantial work (multi-part, multi-session, or
   any skip-gauge no), four questions, each answerable only
   against a record, never from feel — a bare "no" is noise, and
