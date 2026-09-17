@@ -318,8 +318,19 @@
   condition mechanized anyway over- and under-fires, and a guard
   firing on legitimate work trains the override reflex that kills
   it (the check-that-fires-on-a-non-defect shape, Fixing); the
-  computable slice precipitates, the judgment remainder stays
-  prose with the operator as backstop. (2) If prose, at which
+  computable slice precipitates, and the judgment remainder stays
+  prose — rendered as a FORM wherever its firing moment is an
+  event something produces, never a non-event: a fixed, named
+  token in the output, absence readable at a glance without
+  grading content, consumer named; grading the fill is a second,
+  cheaper step, run only over tokens that exist. A form does not
+  enforce itself — it collapses detection from continuous
+  judgment over prose to token presence — and where the event has
+  a computable proxy, the presence check itself precipitates: the
+  notch between duty and mechanism (form criteria: the
+  maintenance doctrine, Precipitation first). Bare prose stands
+  only where no event carries the moment, the operator as
+  backstop either way. (2) If prose, at which
   level is it TRUE — task, project, or every project? Minted above
   its truth-level it is noise; below, it gets re-learned.
   Admission takes the incident plus these two questions — nothing

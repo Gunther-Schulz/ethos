@@ -310,7 +310,20 @@ conclusions always take a carrier (two exits).
   injection at session start — so the lazy path IS the correct
   path and effort is owed only at exceptions. A visible-form slot
   (absence checkable in the output) is the fallback where nothing
-  can compute the answer; a bare mental duty is minted only where
+  can compute the answer — and it is a slot only by DESIGN. The
+  criteria, each checkable at mint time: the trigger is an event
+  something observably produces (a delivery, a call, a close),
+  never a non-event, which nothing observes. The token is fixed
+  in name and position, so presence is decidable at a glance
+  without grading content; grading the fill is a second, cheaper
+  step, run only over tokens that exist. The token's consumer is
+  named — a form nobody reads decays to ceremony. A form does not
+  enforce itself; momentum skips it. Its value is collapsing the
+  reader's detection cost from continuous judgment over prose to
+  token presence, which is also what makes it mechanizable later:
+  a trigger with a computable proxy takes a presence check, the
+  notch between slot and full mechanism. A
+  bare mental duty is minted only where
   judgment excludes both — measured the day this landed: duties
   under-fire at busy desks even while loaded, and a hand-written
   slot was superseded by its computed form the same day. The
