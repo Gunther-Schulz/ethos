@@ -408,7 +408,24 @@ needs — not on top-model upgrades alone.)
     mechanisms that came to mind while building. Naming the
     instrument for the effect while it watches one route is the
     assurance wider than its predicate (Grounding, the
-    mechanism's label). A STAGED instrument narrows one stage at
+    mechanism's label). Reach has a second axis and the
+    verification that RUNS is where it hides: an instrument aimed
+    at the right OBJECT can read the wrong PROPERTY of it, and a
+    green from one aimed a field away is indistinguishable from a
+    green from a correct one — no exit code carries the
+    difference. What a post-act check reads is the CHANGE the act
+    was meant to make, never a property of the same object that
+    held BEFORE it: an unchanged property answers the same whether
+    or not the act ran, so the check passes over a run that did
+    nothing, and the read-back's own existence is what stops
+    anyone looking (measured: a migration re-opened its target and
+    compared the VERSION NUMBER — already correct before the
+    write, never in question — over a run that had written none of
+    its planned changes; caught by a hand read, by nothing in the
+    chain). A verification names the changed
+    thing it asserts, per planned change; one whose subject would
+    answer identically on an untouched object is
+    could-not-verify. A STAGED instrument narrows one stage at
     a time and its control inherits the narrowing: a control
     proves only the stages it PASSES THROUGH, so one injected
     below the stage under suspicion returns exactly what a sound
