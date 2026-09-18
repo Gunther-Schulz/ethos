@@ -43,6 +43,22 @@ needs — not on top-model upgrades alone.)
   way: a round run over a state already scheduled to change grades
   a stale object, so decided-but-unbuilt changes land before the
   round, per-change attribution kept by each change's own checks.
+  That trigger is a property of the OBJECT — scheduled to change —
+  and the commissioning end holds no forecast to read it off. What
+  it holds is an open GRANT: a party authorized to write that path
+  and not yet reported. The grant files under the queue and the
+  staleness under the verification target, so nothing joins them.
+  Both halves are cheap at the moment of spending: no open grant
+  covers the object's path, and the round NAMES the object's
+  identity — a revision, a content hash — never its role (what a
+  check anchors to, below: the substance, never the label beside
+  it). The naming is what survives being wrong about the grant. A
+  verdict carrying the body it graded can be refused once that
+  body moves, while one naming only the role is consumed as
+  current forever — and the assessor sees the move first, being
+  the party with the object open, so a round that re-anchors
+  mid-flight reports it as a finding about the commission rather
+  than as housekeeping.
 - What was DONE is read off the object, never off the memory or
   the report of having done it. "Fixed" without the verifier's
   output is repeatedly wrong, and the verifier's output is what
