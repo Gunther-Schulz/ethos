@@ -20,7 +20,27 @@
   recollection is recollection-grade, while a reported FLIP (one
   thing changed, the effect seen to come and go) is an executed
   measurement at the effect site, and a hypothesis failing it is
-  dead before any source is read. The KIND itself arrives
+  dead before any source is read. One report splits on that axis
+  too, and its halves are not equally reachable. Whether a thing
+  EXISTS, a count holds, a check passed — the receiver opens the
+  artifact and grades it. Who CAUGHT something, who noticed
+  first, whose idea it was — the receiver sees only what reached
+  it, never the other party's own turns, so the provenance half
+  is unobservable by construction rather than merely unverified,
+  and nothing in the report marks which half a sentence is. It
+  arrives in the register drawing least scrutiny, PRAISE, and a
+  receiver repeating it amplifies the one sentence it could not
+  check while checking every one it could. Convention: a
+  provenance claim from another party is relayed as that party's
+  or carries the label unverified, and where it decides anything
+  the discriminating question goes to the party that can answer
+  it. Mechanism, without which the rule is uncheckable at reuse:
+  catches concentrate where the EVIDENCE is, not where the
+  seniority is — whoever holds the artifact sees the object,
+  whoever holds the reports sees an account of it. So checking
+  runs TOWARD the party grading prose, never from it, and a desk
+  that only grades prose is strictly worse than no split at all.
+  The KIND itself arrives
   costumed: a correction rarely wears assertive dress — someone
   who already knows the agent is wrong seldom writes "you are
   wrong"; they say what surprises them, or ask the question whose
