@@ -223,7 +223,16 @@ needs — not on top-model upgrades alone.)
   one was added). A premise the check does not pin
   is one the environment is free to satisfy today and not
   tomorrow; pinned INSIDE the check, frozen into a fixed
-  reference, both directions stay re-runnable. A booked entry's
+  reference, both directions stay re-runnable. The environment is
+  not the only writer of such a premise: where the premise is
+  something the AUTHORIZED ACT itself changes, a result taken
+  before the act describes a world the act ends. The ordering
+  reads as diligence — verify, then proceed — and nothing marks
+  the moment the act falsifies the evidence for it, so what gets
+  recorded asserts the pre-act result as a property of the
+  post-act world. Convention: where the act feeds the check, the
+  check runs AFTER the act, and the verdict carries the post-act
+  run. A booked entry's
   done-criterion is a member of this class that never presents as
   a check: written on one date and consumed on another, it forks
   on every legitimate event that moves a live status word in the

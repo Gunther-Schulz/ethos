@@ -126,8 +126,14 @@
     own action is the next expected event. A wait on the
     operator arms nothing — the notice fires on the peer's
     already-finished turn and wakes the driver with nothing to
-    act on — and a re-arm aimed at an already-idle peer fires
-    instantly as a no-op. The notice's own summary line is stale
+    act on — and an arm aimed at an already-idle peer fires
+    instantly as a no-op, first arm and re-arm alike: the
+    subscription observes the NEXT idle transition, so a peer
+    already idle spends it on the turn that PRECEDED the send.
+    The peer's state at SEND time therefore decides which
+    instrument can fire at all — busy, the subscription watches
+    the turn the message drives; idle, only a timer or a poll
+    over the artifact can. The notice's own summary line is stale
     testimony — it can headline the turn BEFORE the queued
     driving message drained — so the firing act stays the
     artifact look, never the headline. An arm deferred past the
