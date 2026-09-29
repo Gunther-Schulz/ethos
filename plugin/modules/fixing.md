@@ -339,7 +339,14 @@ needs — not on top-model upgrades alone.)
     than as a claim. At delivery, the identifying question: which
     sentence, if false, would change the recommendation — and was
     THAT one executed? What feels known without looking is where
-    it hides. Convention: the delivered mechanism- or causal-claim
+    it hides — and the mechanism, without which the clause reads
+    as a resolve: the LOOK is gated on felt insufficiency — a
+    claim gets checked when the answer feels incomplete — and
+    fluency suppresses exactly that feeling, so the more
+    confident and well-formed a wrong claim, the less likely any
+    check fires on it. The check therefore rides a SEAM — the
+    delivery, the close, a form's slot — never the sense of
+    needing one. Convention: the delivered mechanism- or causal-claim
     names its executed check the way a verdict names its basis —
     absent one, it ships labeled "unverified".
   - **Definitions.** What counts as correct comes from the
