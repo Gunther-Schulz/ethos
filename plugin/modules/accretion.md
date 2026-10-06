@@ -100,7 +100,18 @@
   both controls in its own test).
   (JOURNAL, file roles, 2026-08-26; fire-rate data, 2026-08-27.)
 - Two exits, no third: the work is done now or booked; a change
-  stated only in chat has no carrier and evaporates. The exits grade
+  stated only in chat has no carrier and evaporates. The SUBJECT is
+  wider than work: a stated planning assumption, end state, or
+  direction — the picture the next instrument or move is chosen
+  by — is DECIDED at the moment its sentence is composed, and
+  conversation is the register where it escapes: delivered as an
+  answer inside a flowing exchange it reads as Q&A, so the carrier
+  question fires on the work-shaped items beside it and not on the
+  steering sentence itself (observed: a session booked its work
+  items unprompted while the strategy they served lived only in
+  chat, carried out on the operator's prompt). The sentence stating
+  the direction IS the settle moment and owes its exit in the same
+  reply. The exits grade
   the EFFECT's home, not the act: done now means done where the next
   occasion will READ it. A change living only in a running system — a
   value applied to a live machine, an instrument started by hand, an
