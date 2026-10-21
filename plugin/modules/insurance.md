@@ -42,9 +42,12 @@
     profile routes through iterated falsification: premises with
     their bases in the on-disk ledger, each round attacking both
     the design's fit to the stated intent and the factual bases
-    it cites, re-run until a round returns zero delta. Each
-    round after the first runs under the re-entry seam's reason
-    and trend questions (Calibration). A protocol
+    it cites. Rounds re-run while the re-entry seam
+    (Calibration) owes one, its reason, trend and miss-cost
+    questions deciding. Zero delta ends a series but is never
+    required. A round that still found defects closes it too,
+    once their repairs put nothing unseen on a silent-failure
+    surface. A protocol
     skill covering this shape is a routing destination; the
     shape holds by hand.
 - **Dispatched work — trigger: work another agent holds** (a
