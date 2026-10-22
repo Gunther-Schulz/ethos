@@ -196,10 +196,11 @@
   not a commitment.
   Scheduling by it as one is a priority rule nobody chose: a
   requester's ask that still needs design never turns ready and waits
-  behind everything that is, while the findings a drain's own lanes
-  book refill the ready set. A drain therefore orders by consequence
-  and by who asked, and an ask needing design gets a design slot
-  inside the drain, never a place behind it.
+  behind everything that is, while what the drain itself turns up,
+  its lanes' findings and the answers to its own completeness
+  prompts, refills the ready set. A drain therefore orders by
+  consequence and by who asked, and an ask needing design gets a
+  design slot inside the drain, never a place behind it.
   WHOSE promise it is matters once more than one
   party writes the carrier: a grade asserts something about work,
   and where the work is another party's in-flight draft, only they
