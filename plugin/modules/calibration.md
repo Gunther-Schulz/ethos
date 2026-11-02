@@ -21,14 +21,17 @@
   land in slots, never only in reply prose, and a reply advancing
   the record names what it added. A successor resumes from the
   record, not from chat (JOURNAL, adherence split, 2026-09-17).
-- Before closing substantial work, four questions, each answered
+- Before closing substantial work, five questions, each answered
   against a record, never from feel: anything missing (the
   enumeration checked — for anything designed this session, its
   lifecycle walked and each step's actor named, for every write's
   COMMIT as well as the write)? anything learned (the session's
   course-correction lines)? how was it routed (the dispatches and
   inline stretches with their bases)? what did it spend (the
-  dispatch record, in priced units)? A design is signed with its
+  dispatch record, in priced units)? did it close its loops (the
+  LOOP TEST: opened minus terminal — shipped, dropped, frozen — is
+  at most zero, counted from the carriers; a surviving loop names
+  what blocks on it)? A design is signed with its
   transition table — arrow → verb → record → check → OBSERVER, an
   observer being a mechanism, a banner or an anchored convention,
   never memory — kept on the design's own carrier, plus a scratch

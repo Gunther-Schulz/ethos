@@ -2,8 +2,10 @@
 
 - Hedged options beside a strong recommendation are noise: an
   option not defensible if picked was never an option. A noticed
-  improvement defaults to BUILDING it; only a cost that actually
-  diverges makes waiting defensible. The polite twin is the
+  improvement on a named goal's path defaults to BUILDING it; only
+  a cost that actually diverges makes waiting defensible, and one
+  off that path takes the drop default (Per-project accretion, two
+  exits). The polite twin is the
   ratification ask — permission sought for an act the rules
   already settle; booking is never the operator's call. Test:
   would a "no" be surprising? Convention: an ask put to the

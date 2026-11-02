@@ -31,37 +31,46 @@
   text, text a person reads directly — and the check is a scan
   keyed on the language, never on its diacritics (JOURNAL, file
   roles, 2026-08-26).
-- **Two exits**, no third: do it now or book it; a change stated
-  only in chat evaporates. Boundaries at every grain: decision →
-  ledger, work item → backlog, rule or discipline → project
-  CLAUDE.md. A stated direction or planning assumption is decided
-  the moment its sentence is composed and owes its carrier in the
-  same reply. Done means done where the next occasion will READ it
-  — a change living only in a running system is not done until its
-  durable half lands. Which exit is decided by what the build
-  needs that is absent NOW, and each named absence is graded
-  real-now: an operator decision with the operator present is one
-  question in this reply, a venue reachable by dispatch is a route
-  line, a missing check that is part of the work is the work, and
-  only what the session genuinely cannot reach parks. A fix not
-  yet DESIGNED is not a fix not yet DECIDABLE: gap → fix → designed
-  now → built or booked. Recording a gap in a sibling carrier — an
-  incident or journal entry — does not discharge the work item,
-  and a proposal shipped with its recommendation is a work item at
-  delivery. Declining is legitimate; not booking never is
-  (JOURNAL, two exits, 2026-08-26).
+- **Two exits**, no third: do it now or record its disposition; a
+  change stated only in chat evaporates. A finding that blocks no
+  named project goal is DROPPED by default — one ledger line,
+  recoverable on recurrence; booking is the exception that argues
+  itself, naming the goal or item that blocks on it. Boundaries at
+  every grain: decision → ledger, work item → backlog, rule or
+  discipline → project CLAUDE.md. A stated direction or planning
+  assumption is decided the moment its sentence is composed and
+  owes its carrier in the same reply. Done means done where the
+  next occasion will READ it — a change living only in a running
+  system is not done until its durable half lands. Which exit is
+  decided by what the build needs that is absent NOW, and each
+  named absence is graded real-now: an operator decision with the
+  operator present is one question in this reply, a venue
+  reachable by dispatch is a route line, a missing check that is
+  part of the work is the work, and only what the session
+  genuinely cannot reach AND a goal needs parks. A fix not yet
+  DESIGNED is not a fix not yet DECIDABLE: gap → fix → designed
+  now → built, booked or dropped. Recording a gap in a sibling
+  carrier — an incident or journal entry — does not discharge the
+  work item, and a proposal shipped with its recommendation is a
+  work item at delivery. Dropping is legitimate; leaving no record
+  never is (JOURNAL, two exits, 2026-08-26).
 - **Backlog doctrine.** Items are graded by decision-completeness:
   READY (design decided, verifier named, done-criterion stated,
   realizing write boundary named as `Write-set:` with paths that
   resolve) or PARKED (its missing evidence or trigger named). An
   entry another party owns is graded by them. A drain orders by
-  consequence and by who asked. Closure MOVES the body to the one
-  closure home, by commit ref or a one-line drop. A closure is
-  earned at the item's own size: pressure to clear an entry never
-  makes a change larger, wider or less reversible than the entry
-  asked for. Capture-dominated growth — booked far outrunning
-  shipped-plus-dropped, rough tripwire 3:1 over a +30%-line
-  stretch — owes a retirement pass before new bookings. Where a
+  consequence and by who asked. Closure is TERMINAL — SHIPPED
+  (built, verified, in its consumer's hands), DROPPED (one recorded
+  line, recoverable on recurrence) or FROZEN (done as-is, its
+  re-open condition named) — and MOVES the body to the one closure
+  home. A foundation's implicit done, defect-free, is unreachable:
+  its normal end is the FREEZE with its re-open condition named,
+  not a backlog drained to zero. A closure is earned at the item's
+  own size: pressure to clear an entry never makes a change larger,
+  wider or less reversible than the entry asked for.
+  Capture-dominated growth — booked far outrunning terminal
+  closures, rough tripwire 3:1 over a +30%-line stretch — owes a
+  retirement pass before new bookings. Where a
   repo declares the lifecycle plugin (`.claude/lifecycle.json`),
   its tool enforces these rules; elsewhere the ethic is the rule
   (JOURNAL, backlog doctrine, 2026-08-26).
