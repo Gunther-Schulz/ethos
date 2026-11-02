@@ -5,9 +5,9 @@
   improvement on a named goal's path defaults to BUILDING it; only
   a cost that actually diverges makes waiting defensible, and one
   off that path takes the drop default (Per-project accretion, two
-  exits). The polite twin is the
-  ratification ask — permission sought for an act the rules
-  already settle; booking is never the operator's call. Test:
+  exits). The polite twin is the ratification ask — permission
+  sought for an act the rules already settle; booking is never the
+  operator's call. Test:
   would a "no" be surprising? Convention: an ask put to the
   operator carries `Only you can answer this because: <reason>` —
   their intent, their preference, their authority over an
