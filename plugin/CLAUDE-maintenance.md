@@ -117,8 +117,11 @@ conclusions always take a carrier (two exits).
   session and subagent tier: entries a stronger model no longer
   needs are stamped as capability patches (durability class) rather
   than deleted while weaker tiers still read them; forms destined
-  for briefs to cheaper tiers stay prescriptive. Full rule:
-  skill-craft (stack layer 2).
+  for briefs to cheaper tiers stay prescriptive. A patch that does
+  leave the live corpus — retired on evidence, or cut by an
+  operator-ordered shrink — goes to the pinned archive, never out
+  of history, and comes back on recurrence (Review cadence,
+  Re-admission). Full rule: skill-craft (stack layer 2).
 - **Failure triage before any mint:** classify the failure — gap
   (nothing covers it) / unloaded (existed, wasn't read) /
   loaded-but-inert (read, didn't fire). Only a gap justifies new
@@ -221,6 +224,11 @@ conclusions always take a carrier (two exits).
   posture is mint-and-tune-in-operation, never wait-for-recurrence.
   The tell that a mint is really a sharpen: the failure triages as
   loaded-but-inert, not as a gap (composition rule, failure triage).
+  A mint question is settled when it arises — minted, or declined
+  on grounds already in hand: a duplicate home, no incident, or the
+  wrong truth level. A decline names which of the three it stands
+  on; one that defers to a future review or "see if it recurs"
+  books nothing and decides nothing.
 - **Neighbor-collision check:** every mint or amendment — vetted or
   build-first — reads its home section's neighbors and tests for
   contradiction on a concrete case, and puts the touched entry's OWN
@@ -251,7 +259,14 @@ conclusions always take a carrier (two exits).
   individually defensible at each edit and only ever caught wholesale
   at consolidation, too late. Evidence cannot command, only
   contradict: a contradiction is resolved in the text (which fact is
-  true, at what scope) before the mint lands.
+  true, at what scope) before the mint lands. A rule text is a
+  parent of every check built from it: where a design sentence and
+  the verifier sentence meant to enforce it disagree, the reading
+  that FIRES on the motivating incident wins, measured against
+  it. A rule minted to RATIFY an existing mechanism's behaviour —
+  its rationale citing what the mechanism does rather than what
+  the work requires — is re-derived from the requirement before
+  rule or mechanism changes.
 - **Triple probe on the fresh mint** — after the rule text stands,
   three passes in sequence, each grading the text the previous
   pass corrected: CARRIER (does the home outlive the occasion,
@@ -477,6 +492,24 @@ conclusions always take a carrier (two exits).
   question is that rule's cadence backstop, because a project
   CLAUDE.md accumulates globally-true rules that no correction
   moment ever re-visits.
+- **Re-admission — an archived rule returns only on recurrence.**
+  A rule that leaves the live corpus — retired, superseded, or cut
+  in a shrink — stays grep-able at a pinned ARCHIVE (a tag in each
+  corpus repo), never as a second live corpus. It re-enters only
+  on a RECURRENCE: its failure class observed again, normally
+  through the RECURRENCE DETECTOR (the course-correction carrier),
+  whose line names the class. The act: locate the archived text at
+  the pin, re-render it to the live corpus's form (minimal rule,
+  incident in the journal), and mint it build-first with a journal
+  line citing the recurrence. Failure triage still runs first: a
+  recurrence the live text already covers is a sharpen, never a
+  re-admission. A rule's archived standing is no grounding of its
+  own — only the recurrence grounds it, and no recurrence, no
+  return. The recurrence IS the incident build-first admits on, so
+  this is not the wait-for-recurrence posture admission refuses
+  (Amendment over addition): a new rule still needs one incident,
+  an archived one needs its class to recur. A site names its
+  archive pin and its detector in its overlay.
 - **Ablation — what a durability class means, and the grain at
   which it can be measured at all.** The review's instrument is
   the WHOLE-CORPUS arm: a CLAUDE_CONFIG_DIR copy with every import
